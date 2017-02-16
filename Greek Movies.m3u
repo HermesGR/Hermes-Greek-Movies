@@ -2,17 +2,45 @@
 
 #EXTM3U
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΕΦΑΠΑΞ
+plugin://plugin.video.youtube/?action=play_video&videoid=d1IDt7dYdXQ
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου - NEW
+plugin://plugin.video.youtube/?action=play_video&videoid=c6o5gU-0IcU
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΝΗΣΟΣ 1
+plugin://plugin.video.youtube/?action=play_video&videoid=ZVmerwVsMNw
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΝΗΣΟΣ 2
+plugin://plugin.video.youtube/?action=play_video&videoid=4XWNp33nQqk
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΤΟ ΦΙΛΙ ΤΗΣ ΖΩΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=1Vzw5jko5_E
+
+#EXTINF:1,ΚΑΝΕΝΑΣ - 2010
+plugin://plugin.video.youtube/?action=play_video&videoid=e8pJDy9VF2g
+
+#EXTINF:1,ΠΕΜΠΤΗ ΚΑΙ 12
+plugin://plugin.video.youtube/?action=play_video&videoid=1jfHAYPobyk
+
+#EXTINF:1,ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=l0zbCvPf-Rk
+
+#EXTINF:1,ΒΑΣΙΛΙΑΔΕΣ ΤΗΣ ΜΥΚΟΝΟΥ - 2010
+plugin://plugin.video.youtube/?action=play_video&videoid=dj5RZHxcTx4
+
+#EXTINF:1,Η ΕΚΡΗΞΗ - 2014
+plugin://plugin.video.youtube/?action=play_video&videoid=eGe1-XklOqg
+
+#EXTINF:1,ΚΟΚΚΙΝΟΣ ΟΥΡΑΝΟΣ - 2011
+plugin://plugin.video.youtube/?action=play_video&videoid=sS3DSQoUeFw
+
+#EXTINF:1,ΜΑΝΤΕΨΕ ΤΙ ΚΑΝΩ ΤΑ ΒΡΑΔΙΑ - ΣΤ.ΨΑΛΤΗΣ 1984
+plugin://plugin.video.youtube/?action=play_video&videoid=otd1fAoc5FA
+
+#EXTINF:1,ΕΝΑΣ ΑΛΛΑ ΛΕΩΝ - ΣΤ.ΨΑΛΤΗΣ 1988
+plugin://plugin.video.youtube/?action=play_video&videoid=Ciw3fFl0N94
+
+#EXTINF:1,ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ - ΣΤ.ΨΑΛΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=njk9Cvo1Zno
+
