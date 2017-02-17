@@ -133,3 +133,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=WWa_BaPD7G8
 
 #EXTINF:1,ΜΑΝΤΕΨΕ ΤΙ ΚΑΝΩ ΤΑ ΒΡΑΔΙΑ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ (1984)
 plugin://plugin.video.youtube/?action=play_video&videoid=otd1fAoc5FA
+
+#EXTINF:1,The... Κόπανοι (1987)
+plugin://plugin.video.youtube/?action=play_video&videoid=ILJP94Q_3Fc
+
+#EXTINF:1,Τα Τσακάλια (1981)
+plugin://plugin.video.youtube/?action=play_video&videoid=ECO7BpdjPY8
+
+#EXTINF:1,Καμικάζι ... αγάπη μου (1983)
+plugin://plugin.video.youtube/?action=play_video&videoid=hCOXjHCR-fI
