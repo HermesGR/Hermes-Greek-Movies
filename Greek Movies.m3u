@@ -56,9 +56,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=5Iome2P9_AQ
 #EXTINF:1,ΟΙ ΑΙΣΘΗΜΑΤΙΕΣ (2014)
 plugin://plugin.video.youtube/?action=play_video&videoid=jFcQHiARYno
 
-#EXTINF:1,ΤΟ ΕΤΕΡΟΝ ΗΜΙΣΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=yqmhXRlFQ6w
-
 #EXTINF:1,Οι γαμπροί της Ευτυχίας (2015) 
 plugin://plugin.video.youtube/?action=play_video&videoid=xPFfh1yO_EU
 
