@@ -76,9 +76,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=hYZN5WdRQI
 
 #EXTINF:1,ΑΓΑΠΗ ΣΤΑ 16 (2004)
 plugin://plugin.video.youtube/?action=play_video&videoid=Jvw70o6DyLs
-΄
-#EXTINF:1,ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=l0zbCvPf-Rk
 
 #EXTINF:1,ΒΑΣΙΛΙΑΔΕΣ ΤΗΣ ΜΥΚΟΝΟΥ - 2010
 plugin://plugin.video.youtube/?action=play_video&videoid=dj5RZHxcTx4
