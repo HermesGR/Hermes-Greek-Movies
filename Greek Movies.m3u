@@ -2,11 +2,38 @@
 
 #EXTM3U
 
+#EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oek
+
+#EXTINF:1,Η ΥΠΟΓΡΑΦΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
+
+#EXTINF:1,ΣΤΟ ΞΕΣΠΑΣΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=rM_sePDJs-E
+
+#EXTINF:1,ΜΙΚΡΑ ΑΓΓΛΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=jjYZWoM3Pbw
+
+#EXTINF:1,ΞΑΦΝΙΚΟΣ ΕΡΩΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=Pmp2zuTUWN4
+
+#EXTINF:1,ΟΝΕΙΡΑ ΓΛΥΚΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=18WK1E8S60w
+
+#EXTINF:1,Ο ΕΡΓΕΝΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=tBR4wXwzayo
+
+#EXTINF:1,ΜΕ ΧΩΡΙΣ ΓΥΝΑΙΚΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=MqzmsW2jOuo
+
 #EXTINF:1,ΕΦΑΠΑΞ
 plugin://plugin.video.youtube/?action=play_video&videoid=d1IDt7dYdXQ
 
 #EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου - NEW
 plugin://plugin.video.youtube/?action=play_video&videoid=c6o5gU-0IcU
+
+#EXTINF:1,ΜΗΝ ΠΕΡΝΑΣ ΑΝΑΒΕΙ ΚΟΚΚΙΝΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=LAsSW829grQ
 
 #EXTINF:1,ΝΗΣΟΣ 1
 plugin://plugin.video.youtube/?action=play_video&videoid=ZVmerwVsMNw
@@ -23,10 +50,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=e8pJDy9VF2g
 #EXTINF:1,ΠΕΜΠΤΗ ΚΑΙ 12
 plugin://plugin.video.youtube/?action=play_video&videoid=1jfHAYPobyk
 
-#EXTINF:1,I love karditsa
+#EXTINF:1,I LOVE KARDITSA
 plugin://plugin.video.youtube/?action=play_video&videoid=dmksx7qI6tg
 
-#EXTINF:1,Λούφα και Απαλλαγή
+#EXTINF:1,ΛΟΥΦΑ ΚΑΙ ΑΠΑΛΛΑΓΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=Bk1FZfkEcyg
 
 #EXTINF:1,Η ΚΛΗΡΟΝΟΜΟΣ (2009)
@@ -56,22 +83,22 @@ plugin://plugin.video.youtube/?action=play_video&videoid=5Iome2P9_AQ
 #EXTINF:1,ΟΙ ΑΙΣΘΗΜΑΤΙΕΣ (2014)
 plugin://plugin.video.youtube/?action=play_video&videoid=jFcQHiARYno
 
-#EXTINF:1,Οι γαμπροί της Ευτυχίας (2015) 
+#EXTINF:1,ΟΙ ΓΑΜΠΡΟΙ ΤΗΣ ΕΥΤΥΧΙΑΣ (2015) 
 plugin://plugin.video.youtube/?action=play_video&videoid=xPFfh1yO_EU
 
-#EXTINF:1,Γυναικείες Συνωμοσίες (2007)
+#EXTINF:1,ΓΥΝΑΙΚΙΕΣ ΣΥΝΩΜΟΣΙΕΣ (2007)
 plugin://plugin.video.youtube/?action=play_video&videoid=OZOwBFVPBlM
 
 #EXTINF:1,ΠΑΡΑΔΕΙΣΟΣ (2011)
 plugin://plugin.video.youtube/?action=play_video&videoid=14d5kHtAiJw
 
-#EXTINF:1,Η Διακριτική Γοητεία των Αρσενικών (1999)
+#EXTINF:1,Η ΔΙΑΚΡΙΤΙΚΗ ΓΟΗΤΕΙΑ ΤΩΝ ΑΡΣΕΝΙΚΩΝ (1999)
 plugin://plugin.video.youtube/?action=play_video&videoid=JSa_0mM7aKM
 
 #EXTINF:1,ΑΚΑΛΥΠΤΟΣ (2013)
 plugin://plugin.video.youtube/?action=play_video&videoid=sIbNOoRJRYU
 
-#EXTINF:1,Xenia (2014)
+#EXTINF:1,XENIA (2014)
 plugin://plugin.video.youtube/?action=play_video&videoid=hYZN5WdRQI
 
 #EXTINF:1,ΑΓΑΠΗ ΣΤΑ 16 (2004)
