@@ -17,6 +17,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=jjYZWoM3Pbw
 #EXTINF:1,ΞΑΦΝΙΚΟΣ ΕΡΩΤΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=Pmp2zuTUWN4
 
+#EXTINF:1,Ο ΕΧΘΡΟΣ ΜΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=D6_SBKFahLg
+
 #EXTINF:1,ΟΝΕΙΡΑ ΓΛΥΚΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=18WK1E8S60w
 
@@ -146,8 +149,44 @@ plugin://plugin.video.youtube/?action=play_video&videoid=x9XMV3k-2aM
 #EXTINF:1,Ο ΔΥΝΑΣΤΕΙΑΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=bCdCI98QPOU
 
+#EXTINF:1,Ο ΘΥΡΩΡΟΣ ΤΗΣ ΝΥΣΤΑΣ (1986) - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=VPgqsLCvjq0
+
+#EXTINF:1,O ΣΕΞΟΒΟΜΒΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=d8CIXEf_-e4
+
+#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=k7z7haYVKnk
+
+#EXTINF:1,ΕΝΑΣ ΝΟΜΟΤΑΓΗΣ ΠΟΛΙΤΗΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=BI35jWIwU0
+
+#EXTINF:1,Ο ΤΡΕΛΟΓΙΑΤΡΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=T-NlX781f2s
+
+#EXTINF:1,ΤΑ ΝΑΥΤΑΚΙΑ ΤΑ ΖΟΥΜΠΟΥΡΛΟΥΔΙΚΑ - ΚΩΣΤΑΝΤΙΝΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=wX8TdoFGIk
+
+#EXTINF:1,ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ - ΧΑΤΖΗΧΡΗΣΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=35kLIoX9y38
+
 #EXTINF:1,Αν ήταν το βιολί πουλί... | Σωτήρης Μουστάκας (1984)
 plugin://plugin.video.youtube/?action=play_video&videoid=ZUCXRtE2tK0
+
+#EXTINF:1,ΤΡΕΛΟΣ ΕΙΜΑΙ, ΟΤΙ ΘΕΛΩ ΚΑΝΩ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=0Cz1McJtH3w
+
+#EXTINF:1,ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ (1986) - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=cTf0RKdjr40
+
+#EXTINF:1,ΨΗΛΟΣ, ΛΙΓΝΟΣ ΚΑΙ ΨΕΥΤΑΡΟΣ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=iDdlzxu094E
+
+#EXTINF:1,ΜΗΤΣΟΣ Ο ΡΕΖΙΛΗΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=XosrgWN9z9M
+
+#EXTINF:1,Ο ΠΑΡΘΕΝΟΚΥΝΗΓΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=mk-zpjp3Hvk
 
 #EXTINF:1,Βασικά... Καλησπέρα σας | Στάθης Ψάλτης (1982)
 plugin://plugin.video.youtube/?action=play_video&videoid=WWa_BaPD7G8
@@ -163,3 +202,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=ECO7BpdjPY8
 
 #EXTINF:1,Καμικάζι ... αγάπη μου (1983)
 plugin://plugin.video.youtube/?action=play_video&videoid=hCOXjHCR-fI
+
+#EXTINF:1,Η ΜΕΓΑΛΗ ΑΠΟΦΡΑΞΗ - ΤΟ ΣΚΑΤΟΜΟΥΤΡΟ 1988
+plugin://plugin.video.youtube/?action=play_video&videoid=rR3wWIlxwlU
+
+#EXTINF:1,ΚΛΑΣΙΚΗ ΠΕΡΙΠΤΩΣΗ ΒΛΑΒΗΣ 1987
+plugin://plugin.video.youtube/?action=play_video&videoid=yDIKvPBjb5Y
+
+#EXTINF:1,ΟΙ ΠΟΝΤΙΟΙ - ΤΣΑΚΩΝΑΣ, ΛΕΖΕΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=OQT4OzvlBlw
+
