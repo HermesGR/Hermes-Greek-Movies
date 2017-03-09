@@ -211,8 +211,3 @@ plugin://plugin.video.youtube/?action=play_video&videoid=yDIKvPBjb5Y
 
 #EXTINF:1,ΟΙ ΠΟΝΤΙΟΙ - ΤΣΑΚΩΝΑΣ, ΛΕΖΕΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=OQT4OzvlBlw
-
-#EXTINF:1,TEST
-plugin://plugin.video.veoh/?action=play_video&videoid=http://www.veoh.com/watch/v117997288GY6cfDJ5
-
-
