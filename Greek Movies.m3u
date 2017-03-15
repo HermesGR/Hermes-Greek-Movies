@@ -2,9 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,ΤΥΦΛΗ ΣΑΜΟΥΡΑΙ  ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=prGC1_5dXeU
-
 #EXTINF:1,UNKNOWN  ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
 
@@ -17,19 +14,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QVpcXozv898
 #EXTINF:1,Ουρλιαχτό ~ Howl ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=c_VUl5Sqch0
 
-#EXTINF:1,Διασχίζοντας την Έρημο ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=k2U1c91tYcw
-
 #EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
 
-#EXTINF:1,Ondine ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=fLIpbgO8CLA
-
-#EXTINF:1,«Νικόστρατος, ο πελεκάνος» - (Ελληνικοί υπότιτλοι)
+#EXTINF:1,«Νικόστρατος, ο πελεκάνος» - ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=AsjWveZsZ5w
 
-#EXTINF:1,Pound of Flesh - (Ελληνικοί υπότιτλοι)
+#EXTINF:1,Pound of Flesh - ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=cl4EpdBiQFY
 
 #EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ
