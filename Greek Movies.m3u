@@ -14,6 +14,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=QVpcXozv898
 #EXTINF:1,Ουρλιαχτό ~ Howl ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=c_VUl5Sqch0
 
+#EXTINF:1,DARK HOUSE ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=zA-ZzU-hVFA
+
 #EXTINF:1,ΕΓΚΛΗΜΑΤΑ ΜΙΣΟΥΣ (HATE CRIME) ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=_2EC3aTGE2s
 
