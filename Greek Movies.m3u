@@ -35,17 +35,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=4HCiDAHct7U
 #EXTINF:1,Best Laid Plans / ΣΤΗΜΕΝΟ ΠΑΙΧΝΙΔΙ ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=7LH1SQVrc0Q
 
-#EXTINF:1,ΔΥΟ ΜΕΡΕΣ ΜΙΑ ΝΥΧΤΑ ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=gWPX9LWdlrI
-
 #EXTINF:1,Νύφες ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=CZI_3bTt6x4
 
 #EXTINF:1,Πολίτικη Κουζίνα
 plugin://plugin.video.youtube/?action=play_video&videoid=ICi0qdjhjy8
-
-#EXTINF:1,Όλα η Τίποτα ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=y1GVv8uoLwA
 
 #EXTINF:1,OSTROV-ΤΟ ΝΗΣΙ ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=7uZSZkLIic4
