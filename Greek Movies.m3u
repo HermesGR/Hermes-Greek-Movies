@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,LEON  ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=NWgVqzYrIlE
+
 #EXTINF:1,UNKNOWN  ~ Ελληνικοί Υπότιτλοι ~
 plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
 
