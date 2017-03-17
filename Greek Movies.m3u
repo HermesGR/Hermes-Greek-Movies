@@ -2,74 +2,35 @@
 
 #EXTM3U
 
-#EXTINF:1,LEON  ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=NWgVqzYrIlE
+#EXTINF:1,SUNTAN 
+plugin://plugin.video.youtube/?action=play_video&videoid=dsyn-gIIhf4
 
-#EXTINF:1,UNKNOWN  ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
+#EXTINF:1,ΚΟΙΝΟΣ ΠΑΡΑΝΟΜΑΣΤΗΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=tLzolcUiI-E
 
-#EXTINF:1,THE WARD  ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=nx5hFUnB0p8
+#EXTINF:1,Λούφα και Απαλλαγή 
+plugin://plugin.video.youtube/?action=play_video&videoid=A9ffZfiT85E
 
-#EXTINF:1,Οι Στοιχειωμένοι ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=QVpcXozv898
+#EXTINF:1,Ζητείται ψεύτης
+plugin://plugin.video.youtube/?action=play_video&videoid=NAeVq6tPOW8
 
-#EXTINF:1,Ουρλιαχτό ~ Howl ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=c_VUl5Sqch0
+#EXTINF:1,ΧΑΡΙΣΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=30Drl0UW7Oo
 
-#EXTINF:1,DARK HOUSE ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=zA-ZzU-hVFA
+#EXTINF:1,Μια Υπέροχη Μέρα 
+plugin://plugin.video.youtube/?action=play_video&videoid=KSlvSmHYJs4
 
-#EXTINF:1,ΕΓΚΛΗΜΑΤΑ ΜΙΣΟΥΣ (HATE CRIME) ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=_2EC3aTGE2s
+#EXTINF:1,Επικίνδυνες Μαγειρικές
+plugin://plugin.video.youtube/?action=play_video&videoid=DmAiNEeHB7I
 
-#EXTINF:1,Ο Μόνος Μάρτυρας ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=yywlbMx4N9M
+#EXTINF:1,Λάρισα Εμπιστευτικό 
+plugin://plugin.video.youtube/?action=play_video&videoid=guhLZGDqqeA
 
-#EXTINF:1,Γράμματα στο Θεό ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=3FbqLzE97qY
+#EXTINF:1,Τετάρτη 4:45 
+plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
 
-#EXTINF:1,ΕΙΜΑΙ Ο ΓΚΑΜΠΡΙΕΛ ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=9a0RnPgP6Q4
-
-#EXTINF:1,ΡΑΝΤΕΒΟΥ ΜΕ ΤΟΝ ΕΦΙΑΛΤΗ ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=4HCiDAHct7U
-
-#EXTINF:1,Best Laid Plans / ΣΤΗΜΕΝΟ ΠΑΙΧΝΙΔΙ ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=7LH1SQVrc0Q
-
-#EXTINF:1,Νύφες ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=CZI_3bTt6x4
-
-#EXTINF:1,Πολίτικη Κουζίνα
-plugin://plugin.video.youtube/?action=play_video&videoid=ICi0qdjhjy8
-
-#EXTINF:1,OSTROV-ΤΟ ΝΗΣΙ ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=7uZSZkLIic4
-
-#EXTINF:1,The Crazies ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmiA&t=1647s
-
-#EXTINF:1,HISSS ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=k7xZvRq2M7U
-
-#EXTINF:1,The legend is born: Ip man ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=71lW0istyKA
-
-#EXTINF:1,13 ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=QYVMz-HeV54
-
-#EXTINF:1,6 BULLETS ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=Gs9Z5viI3oI
-
-#EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
-
-#EXTINF:1,«Νικόστρατος, ο πελεκάνος» - ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=AsjWveZsZ5w
-
-#EXTINF:1,Pound of Flesh - ~ Ελληνικοί Υπότιτλοι ~
-plugin://plugin.video.youtube/?action=play_video&videoid=cl4EpdBiQFY
+#EXTINF:1,Η ΕΚΡΗΞΗ (A BLAST) 
+plugin://plugin.video.youtube/?action=play_video&videoid=SQLV1Ls37aw
 
 #EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oek
@@ -184,6 +145,75 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eGe1-XklOqg
 
 #EXTINF:1,ΚΟΚΚΙΝΟΣ ΟΥΡΑΝΟΣ - 2011
 plugin://plugin.video.youtube/?action=play_video&videoid=sS3DSQoUeFw
+
+#EXTINF:1,LEON  ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=NWgVqzYrIlE
+
+#EXTINF:1,UNKNOWN  ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
+
+#EXTINF:1,THE WARD  ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=nx5hFUnB0p8
+
+#EXTINF:1,Οι Στοιχειωμένοι ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=QVpcXozv898
+
+#EXTINF:1,Ουρλιαχτό ~ Howl ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=c_VUl5Sqch0
+
+#EXTINF:1,DARK HOUSE ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=zA-ZzU-hVFA
+
+#EXTINF:1,ΕΓΚΛΗΜΑΤΑ ΜΙΣΟΥΣ (HATE CRIME) ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=_2EC3aTGE2s
+
+#EXTINF:1,Ο Μόνος Μάρτυρας ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=yywlbMx4N9M
+
+#EXTINF:1,Γράμματα στο Θεό ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=3FbqLzE97qY
+
+#EXTINF:1,ΕΙΜΑΙ Ο ΓΚΑΜΠΡΙΕΛ ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=9a0RnPgP6Q4
+
+#EXTINF:1,ΡΑΝΤΕΒΟΥ ΜΕ ΤΟΝ ΕΦΙΑΛΤΗ ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=4HCiDAHct7U
+
+#EXTINF:1,Best Laid Plans / ΣΤΗΜΕΝΟ ΠΑΙΧΝΙΔΙ ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=7LH1SQVrc0Q
+
+#EXTINF:1,Νύφες ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=CZI_3bTt6x4
+
+#EXTINF:1,Πολίτικη Κουζίνα
+plugin://plugin.video.youtube/?action=play_video&videoid=ICi0qdjhjy8
+
+#EXTINF:1,OSTROV-ΤΟ ΝΗΣΙ ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=7uZSZkLIic4
+
+#EXTINF:1,The Crazies ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmiA&t=1647s
+
+#EXTINF:1,HISSS ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=k7xZvRq2M7U
+
+#EXTINF:1,The legend is born: Ip man ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=71lW0istyKA
+
+#EXTINF:1,13 ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=QYVMz-HeV54
+
+#EXTINF:1,6 BULLETS ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=Gs9Z5viI3oI
+
+#EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
+
+#EXTINF:1,«Νικόστρατος, ο πελεκάνος» - ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=AsjWveZsZ5w
+
+#EXTINF:1,Pound of Flesh - ~ Ελληνικοί Υπότιτλοι ~
+plugin://plugin.video.youtube/?action=play_video&videoid=cl4EpdBiQFY
 
 #EXTINF:1,ΜΑΝΤΕΨΕ ΤΙ ΚΑΝΩ ΤΑ ΒΡΑΔΙΑ - ΣΤ.ΨΑΛΤΗΣ 1984
 plugin://plugin.video.youtube/?action=play_video&videoid=otd1fAoc5FA
