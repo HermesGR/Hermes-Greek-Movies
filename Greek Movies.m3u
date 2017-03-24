@@ -2,6 +2,30 @@
 
 #EXTM3U
 
+#EXTINF:1,Τετάρτη 4:45 
+plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
+
+#EXTINF:1,Η ΕΚΡΗΞΗ (A BLAST) 
+plugin://plugin.video.youtube/?action=play_video&videoid=SQLV1Ls37aw
+
+#EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oek
+
+#EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
+plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
+
+#EXTINF:1,ΣΤΟ ΞΕΣΠΑΣΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=rM_sePDJs-E
+
+#EXTINF:1,ΜΙΚΡΑ ΑΓΓΛΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=jjYZWoM3Pbw
+
+#EXTINF:1,ΞΑΦΝΙΚΟΣ ΕΡΩΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=Pmp2zuTUWN4
+
+#EXTINF:1,Ο ΕΧΘΡΟΣ ΜΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=D6_SBKFahLg
+
 #EXTINF:1,ΚΟΙΝΟΣ ΠΑΡΑΝΟΜΑΣΤΗΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=tLzolcUiI-E
 
