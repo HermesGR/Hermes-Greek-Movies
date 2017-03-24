@@ -2,9 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,SUNTAN 
-plugin://plugin.video.youtube/?action=play_video&videoid=dsyn-gIIhf4
-
 #EXTINF:1,ΚΟΙΝΟΣ ΠΑΡΑΝΟΜΑΣΤΗΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=tLzolcUiI-E
 
