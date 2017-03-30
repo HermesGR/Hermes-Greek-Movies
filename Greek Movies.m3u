@@ -2,6 +2,36 @@
 
 #EXTM3U
 
+#EXTINF:1,UNKNOWN ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
+
+#EXTINF:1,Οι Στοιχειωμένοι ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=QVpcXozv898
+
+#EXTINF:1,THE HUNTERS ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=ZMFc1D3446g
+
+#EXTINF:1,LAST PASSENGER ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=CBGKmJ0LuJA
+
+#EXTINF:1,ΝΟΜΟΤΑΓΗΣ ΠΟΛΙΤΗΣ ~ Ελληνικοί Υπότιτλοι 
+plugin://plugin.video.youtube/?action=play_video&videoid=xjJzE6iShOc
+
+#EXTINF:1,Η ΟΜΙΧΛΗ ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=ZtKZ2naginI
+
+#EXTINF:1,THE FRONT LINE ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=j66iwIpu_Rg
+
+#EXTINF:1,Λάθος Στροφή ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=JIxWIJYP_mc
+
+#EXTINF:1,ΕΧΘΡΟΙ ~ Ελληνικοί Υπότιτλοι 
+plugin://plugin.video.youtube/?action=play_video&videoid=aliFljjj_oQ
+
+#EXTINF:1,THE WARD ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=nx5hFUnB0p8
+
 #EXTINF:1,Τετάρτη 4:45 
 plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
 
@@ -13,6 +43,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oek
 
 #EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
 plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
+
+#EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
 
 #EXTINF:1,ΣΤΟ ΞΕΣΠΑΣΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=rM_sePDJs-E
