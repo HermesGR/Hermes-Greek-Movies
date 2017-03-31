@@ -2,6 +2,24 @@
 
 #EXTM3U
 
+#EXTINF:1,SAFE (Ο ΠΡΟΣΤΑΤΗΣ) ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=09GOB-ua2uU
+
+#EXTINF:1,The Crazies ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmiA
+
+#EXTINF:1,6 BULLETS ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=Gs9Z5viI3oI
+
+#EXTINF:1,ICE 2020 ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=GAY44C4QAVY
+
+#EXTINF:1,The boy ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=yDtWTErUfHI
+
+#EXTINF:1,ΕΚΤΗ ΑΙΣΘΗΣΗ ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=jpOvAwl5cVg
+
 #EXTINF:1,UNKNOWN ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=__H9GUM_r1U
 
@@ -31,6 +49,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=aliFljjj_oQ
 
 #EXTINF:1,THE WARD ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=nx5hFUnB0p8
+
+#EXTINF:1,ROAD TO PERDITION ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=Fj59YulJzI4
+
+#EXTINF:1,EYES OF AN ANGEL ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=0gZEW3uo_kw
 
 #EXTINF:1,Τετάρτη 4:45 
 plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
