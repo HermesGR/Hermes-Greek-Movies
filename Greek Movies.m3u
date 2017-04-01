@@ -2,11 +2,6 @@
 
 #EXTM3U
 
-<item> 
-   <title><>===#=== Sports Channel ===#===<></title> 
-   <link>plugin://plugin.video.youtube/?action=play_video&videoid=09GOB-ua2uU<link>
-<item>
-
 #EXTINF:1,The Crazies ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmiA
 
