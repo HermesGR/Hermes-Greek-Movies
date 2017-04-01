@@ -2,18 +2,14 @@
 
 #EXTM3U
 
-#EXTINF:1 ΤΑΙΝΙΕΣ ΜΕ ΥΠΟΤΙΤΛΟΥΣ
+
 #EXTINF:1,SAFE (Ο ΠΡΟΣΤΑΤΗΣ) ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=09GOB-ua2uU
-#EXTINF:1The Crazies ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmi
-6#EXTINF:1 BULLETS ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=Gs9Z5viI3oI
 
-#EXTINF:2,The Crazies ~ Ελληνικοί Υπότιτλοι
+#EXTINF:1,The Crazies ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=GDbukEzNmiA
 
-#EXTINF:3,6 BULLETS ~ Ελληνικοί Υπότιτλοι
+#EXTINF:1,6 BULLETS ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=Gs9Z5viI3oI
 
 #EXTINF:1,ICE 2020 ~ Ελληνικοί Υπότιτλοι
