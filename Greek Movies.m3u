@@ -5,23 +5,8 @@
 #EXTINF:1,Ο ΦΙΛΟΣ ΜΟΥ Ο ΛΕΥΤΕΡΑΚΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=CG_Ne0S8yrQ
 
-#EXTINF:1,Η ΘΕΙΑ ΑΠΟ ΤΟ ΣΙΚΑΓΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=VUUv_-gAosc
-
-#EXTINF:1,ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ (1965)
-plugin://plugin.video.youtube/?action=play_video&videoid=z-B7WqQlezc
-
-#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου (1959)
-plugin://plugin.video.youtube/?action=play_video&videoid=wA3W4iLqb7M
-
 #EXTINF:1,Ο ΚΑΤΕΡΓΑΡΗΣ (1971)
 plugin://plugin.video.youtube/?action=play_video&videoid=jw26ghqK-5A
-
-#EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=mh87hURFFnc
-
-#EXTINF:1,ΟΙ ΓΑΜΠΡΟΙ ΤΗΣ ΕΥΤΥΧΙΑΣ (1962)
-plugin://plugin.video.youtube/?action=play_video&videoid=x_lpbI3SRMY
 
 #EXTINF:1,Ο ΠΕΘΕΡΟΠΛΗΚΤΟΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=lBEIt4c9qTQ
