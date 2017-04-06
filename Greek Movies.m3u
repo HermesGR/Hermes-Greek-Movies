@@ -68,6 +68,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
 #EXTINF:1,Η ΕΚΡΗΞΗ (A BLAST) 
 plugin://plugin.video.youtube/?action=play_video&videoid=SQLV1Ls37aw
 
+#EXTINF:1,ΤΟ ΘΥΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=ljvjh3CPS0M
+
+#EXTINF:1,ΑΧ!ΚΑΙ ΝΑ'ΜΟΥΝ ΑΝΤΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=BfUrjd5C62c
+
+#EXTINF:1,ΚΑΚΟΣ, ΨΥΧΡΟΣ ΚΙ ΑΝΑΠΟΔΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=5ivYGujJKmk
 
 #EXTINF:1,Ο ΦΙΛΟΣ ΜΟΥ Ο ΛΕΥΤΕΡΑΚΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=CG_Ne0S8yrQ
@@ -109,7 +117,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=zHsTbyL7yKU
 plugin://plugin.video.youtube/?action=play_video&videoid=WmHAqdzVXB8
 
 #EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
-plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oek
+plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oe
 
 #EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
 plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
