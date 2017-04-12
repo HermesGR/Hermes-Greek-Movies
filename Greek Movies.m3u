@@ -1,11 +1,11 @@
 # Hermes-Greek-Movies
 
 
-#EXTINF:1,ΤΕΤΑΡΤΗ 4:45 
-plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
+#EXTINF:1,Ο ΚΑΒΑΛΑΡΗΣ ΤΩΝ FM STEREO
+plugin://plugin.video.youtube/?action=play_video&videoid=knr80Dzg4ZM
 
-#EXTINF:1,Η ΕΚΡΗΞΗ (A BLAST) 
-plugin://plugin.video.youtube/?action=play_video&videoid=SQLV1Ls37aw
+#EXTINF:1,ΕΡΩΤΙΑΡΗΣ ΑΠΟ ΚΟΥΝΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=tfUPiCYgGQU
 
 #EXTINF:1,ΤΟ ΘΥΜΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=ljvjh3CPS0M
