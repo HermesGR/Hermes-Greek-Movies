@@ -12,6 +12,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=knr80Dzg4ZM
 #EXTINF:1,ΕΡΩΤΙΑΡΗΣ ΑΠΟ ΚΟΥΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=tfUPiCYgGQU
 
+#EXTINF:1,ΚΑΙ ΔΕΙΛΟΣ ΚΑΙ ΤΟΛΜΗΡΟΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=7NAbG340E8k
+
+#EXTINF:1,ΑΚΑΤΑΜΑΧΗΤΟΣ ΠΙΛΟΤΟΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=IYFyBPkQQsk
+
 #EXTINF:1,ΠΕΡΑΣΤΕ..ΦΙΛΗΣΤΕ..ΤΕΛΕΙΩΣΑΤΕ..(ΠΑΝΟΣ ΜΙΧΑΛΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=vdJd1Y0eRIw
 
