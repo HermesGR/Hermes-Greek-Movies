@@ -1,5 +1,13 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΜΟ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=AT6sClrvCF0
+
+#EXTINF:1,Η ΚΑΦΕΤΖΟΥ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ftfgJPUgDfU
+
+#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου (ΧΑΤΖΗΧΡΗΣΤΟΣ - ΒΕΓΓΟΣ - ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=dUj51h8tlbU
 
 #EXTINF:1,ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=RnjIP4Nk_qQ
