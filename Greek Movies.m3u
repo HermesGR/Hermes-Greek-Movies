@@ -1,5 +1,42 @@
 # Hermes-Greek-Movies
 
+
+#EXTINF:1,Ο ΓΟΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ -ΧΡΩΝΗΣ ΕΞΑΡΧΑΚΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=SF-qSPplqek
+
+#EXTINF:1,ΕΝΑΣ ΤΡΕΛΟΣ ΤΡΕΛΟΣ ΑΕΡΟΠΕΙΡΑΤΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=057jH9MnCJk
+
+#EXTINF:1,Ο ΚΛΕΑΡΧΟΣ Η ΜΑΡΙΝΑ ΚΑΙ Ο ΚΟΝΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=H0oig-hL5PI
+
+#EXTINF:1,ΕΝΑ ΕΞΥΠΝΟ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (Κ.ΒΟΥΤΣΑΣ-Β.ΑΥΛΩΝΙΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=xEqFz5h2mE0
+
+#EXTINF:1,ΤΡΙΤΗ ΚΑΙ 13 (Ν.ΣΤΑΥΡΙΔΗΣ-Γ.ΓΚΙΩΝΑΚΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=0KbmoZtlr-M
+
+#EXTINF:1,ΟΙ ΑΣΣΟΙ ΗΤΑΝ 4 (ΝΤΙΝΟΣ ΗΛΙΟΠΟΥΛΟΣ -ΝΙΚΟΣ ΣΤΑΥΡΙΔΗΣ - ΜΙΜΗΣ ΦΩΤΟΠΟΥΛΟΣ - ΓΙΑΝΝΗΣ ΓΚΙΩΝΑΚΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=c9jJ0aWQExw
+
+#EXTINF:1,Ο ΨΕΥΤΗΣ ΘΑΛΑΣΣΙΝΟΣ ΓΙΑΤΡΟΣ (Κ.ΒΟΥΤΣΑΣ-Δ.ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=8CXC_vliWXk
+
+#EXTINF:1,Ο ΥΜΝΟΣ ΤΗΣ ΜΠΟΖΟΛΑΝΤΗΣ (Ο ΣΕΡ ΚΑΡΑΜΠΟΥΜΠΑ, ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=MDUVWAMYYbs
+
+#EXTINF:1,Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ 
+plugin://plugin.video.youtube/?action=play_video&videoid=CHFSC7XVxsc
+
+#EXTINF:1,ΚΑΙ Ο ΠΡΩΤΟΣ ΜΑΤΑΚΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=3n8Ws6mUD_I
+
+#EXTINF:1,ΚΑΙ Ο ΠΡΩΤΟΣ ΜΠΟΥΝΑΚΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=2dkvELwUbQU
+
+ #EXTINF:1,Ο ΕΡΑΣΤΗΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=z2NGmHoQwUM
+
 #EXTINF:1,ΕΛΑ ΝΑ ΑΓΑΠΗΘΟΥΜΕ ΝΤΑΡΛΙΝΓΚ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=08Y1fbQufX4
 
