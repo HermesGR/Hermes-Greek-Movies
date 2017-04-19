@@ -1,5 +1,11 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
+
+#EXTINF:1,ΑΡΙΣΤΟΤΕΛΗΣ Ο ΕΠΙΠΟΛΑΙΟΣ (ΝΙΚΟΣ ΣΤΑΥΡΙΔΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=7LQdbcsV-jU
+
 #EXTINF:1,ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΜΟ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=AT6sClrvCF0
 
@@ -119,6 +125,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=zHsTbyL7yKU
 
 #EXTINF:1,Η ΚΑΦΕΤΖΟΥ (1956)
 plugin://plugin.video.youtube/?action=play_video&videoid=WmHAqdzVXB8
+
+#EXTINF:1,Η ΓΥΝΑΙΚΑ ΕΙΝΑΙ ΣΚΛΗΡΟΣ ΑΝΘΡΩΠΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=V35pRuCoS98
+
+#EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
 
 #EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oe
@@ -353,3 +365,23 @@ plugin://plugin.video.youtube/?action=play_video&videoid=yDIKvPBjb5Y
 
 #EXTINF:1,ΟΙ ΠΟΝΤΙΟΙ - ΤΣΑΚΩΝΑΣ, ΛΕΖΕΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=OQT4OzvlBlw
+
+#EXTINF:1,ΦΤΩΧΟΓΕΙΤΟΝΙΑ ΑΓΑΠΗ ΜΟΥ (1969 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=64wWIoaTyi4
+
+#EXTINF:1,ΕΧΩ ΔΙΚΑΙΩΜΑ ΝΑ Σ'ΑΓΑΠΩ (1966 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=9iOWgdTu5Gg
+
+#EXTINF:1,Ο ΛΟΥΣΤΡΑΚΟΣ (1962)
+plugin://plugin.video.youtube/?action=play_video&videoid=zHsTbyL7yKU
+
+#EXTINF:1,Η ΤΡΟΥΜΠΑ (1963)
+plugin://plugin.video.youtube/?action=play_video&videoid=XDW68h50clI
+
+#EXTINF:1,Η ΚΑΡΔΙΑ ΕΝΟΣ ΑΛΗΤΗ (1968 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=OexIp7Kp2s4
+
+#EXTINF:1,Η ΟΔΥΣΣΕΙΑ ΕΝΟΣ ΞΕΡΙΖΩΜΕΝΟΥ (1969 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=OqoBbceESWw
+
+
