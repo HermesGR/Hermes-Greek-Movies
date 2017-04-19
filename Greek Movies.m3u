@@ -126,9 +126,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oe
 #EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
 plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
 
-#EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
-
 #EXTINF:1,ΣΤΟ ΞΕΣΠΑΣΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=rM_sePDJs-E
 
