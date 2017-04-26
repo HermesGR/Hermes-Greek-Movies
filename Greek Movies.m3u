@@ -1,5 +1,14 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,ΜΙΑ ΙΤΑΛΙΔΑ ΑΠΟ ΤΗΝ ΚΥΨΕΛΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=WUkWzl_vmuc
+
+#EXTINF:1,Ο ΜΑΓΚΑΣ ΜΕ ΤΟ ΤΡΙΚΥΚΛΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=QG83Olg4EoA
+
+#EXTINF:1,ΤΑ ΠΑΙΔΙΑ ΤΗΣ ΠΙΑΤΣΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=o3-EncKqTnA
+
 #EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=gq4dNglcRDg
 
