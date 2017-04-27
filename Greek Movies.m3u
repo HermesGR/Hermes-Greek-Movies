@@ -6,13 +6,22 @@ plugin://plugin.video.youtube/?action=play_video&videoid=WUkWzl_vmuc
 #EXTINF:1,Ο ΜΑΓΚΑΣ ΜΕ ΤΟ ΤΡΙΚΥΚΛΟ
 plugin://plugin.video.youtube/?action=play_video&videoid=QG83Olg4EoA
 
+#EXTINF:1,ΤΑ ΣΑΙΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.dailymotion_com/?url=x3cosvn&mode=playVideo
+
+#EXTINF:1,ΞΕΝΟΔΟΧΕΙΟ ΚΑΣΤΡΙ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.dailymotion_com/?url=x3cmisg&mode=playVideo
+
 #EXTINF:1,ΤΑ ΠΑΙΔΙΑ ΤΗΣ ΠΙΑΤΣΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=o3-EncKqTnA
 
 #EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=gq4dNglcRDg
 
-#EXTINF:1,ΤΟ ΠΑΙΖΩ ΚΑΙ ΠΟΛΥ ΑΝΤΡΑΣ (Σ.ΜΟΥΣΤΑΚΑΣ)
+#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.dailymotion_com/?url=x2exp75&mode=playVideo
+
+#EXTINF:1,ΤΟ ΠΑΙΖΩ ΚΑΙ ΠΟΛΥ ΑΝΤΡΑΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=KTFQc6KFshU
 
 #EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
