@@ -1,5 +1,29 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) ΜΕΡΟΣ 1ο
+plugin://plugin.video.dailymotion_com/?url=x57isxa&mode=playVideo
+
+#EXTINF:1,ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) ΜΕΡΟΣ 2ο
+plugin://plugin.video.dailymotion_com/?url=x57iv0j&mode=playVideo
+
+#EXTINF:1,ΚΑΤΙ ΝΑ ΚΑΙΕΙ(ΗΛΙΟΠΟΥΛΟΣ - ΒΛΑΧΟΠΟΥΛΟΥ) ΜΕΡΟΣ 1ο
+plugin://plugin.video.dailymotion_com/?url=x56649l&mode=playVideo
+
+#EXTINF:1,ΚΑΤΙ ΝΑ ΚΑΙΕΙ (ΗΛΙΟΠΟΥΛΟΣ - ΒΛΑΧΟΠΟΥΛΟΥ) ΜΕΡΟΣ 2ο
+plugin://plugin.video.dailymotion_com/?url=x5666sq&mode=playVideo
+
+#EXTINF:1,ΜΙΑ ΤΡΕΛΗ..ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ ΜΕΡΟΣ 1ο
+plugin://plugin.video.dailymotion_com/?url=x50xumm&mode=playVideo
+
+#EXTINF:1,ΜΙΑ ΤΡΕΛΗ..ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ ΜΕΡΟΣ 2ο
+plugin://plugin.video.dailymotion_com/?url=x50y2lw&mode=playVideo
+
+#EXTINF:1,ΟΙ ΘΑΛΑΣΣΙΕΣ ΟΙ ΧΑΝΤΡΕΣ ΜΕΡΟΣ 1ο
+plugin://plugin.video.dailymotion_com/?url=x5dtdgk&mode=playVideo
+
+#EXTINF:1,ΟΙ ΘΑΛΑΣΣΙΕΣ ΟΙ ΧΑΝΤΡΕΣ ΜΕΡΟΣ 2ο
+plugin://plugin.video.dailymotion_com/?url=x5dti0x&mode=playVideo
+
 #EXTINF:1,ΜΙΑ ΙΤΑΛΙΔΑ ΑΠΟ ΤΗΝ ΚΥΨΕΛΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=WUkWzl_vmuc
 
