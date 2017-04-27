@@ -6,6 +6,12 @@ plugin://plugin.video.dailymotion_com/?url=x57isxa&mode=playVideo
 #EXTINF:1,ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) ΜΕΡΟΣ 2ο
 plugin://plugin.video.dailymotion_com/?url=x57iv0j&mode=playVideo
 
+#EXTINF:1,ΤΖΕΝΗ ΤΖΕΝΗ (Τ.ΚΑΡΕΖΗ) ΜΕΡΟΣ 1ο
+plugin://plugin.video.dailymotion_com/?url=x5f34vo&mode=playVideo
+
+#EXTINF:1,ΤΖΕΝΗ ΤΖΕΝΗ (Τ.ΚΑΡΕΖΗ) ΜΕΡΟΣ 2ο
+plugin://plugin.video.dailymotion_com/?url=x5f37d9&mode=playVideo
+
 #EXTINF:1,ΚΑΤΙ ΝΑ ΚΑΙΕΙ(ΗΛΙΟΠΟΥΛΟΣ - ΒΛΑΧΟΠΟΥΛΟΥ) ΜΕΡΟΣ 1ο
 plugin://plugin.video.dailymotion_com/?url=x56649l&mode=playVideo
 
