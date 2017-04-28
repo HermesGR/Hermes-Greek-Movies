@@ -1,58 +1,16 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1,ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) ΜΕΡΟΣ 1ο
-plugin://plugin.video.dailymotion_com/?url=x57isxa&mode=playVideo
-
-#EXTINF:1,ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) ΜΕΡΟΣ 2ο
-plugin://plugin.video.dailymotion_com/?url=x57iv0j&mode=playVideo
-
-#EXTINF:1,ΤΖΕΝΗ ΤΖΕΝΗ (Τ.ΚΑΡΕΖΗ) ΜΕΡΟΣ 1ο
-plugin://plugin.video.dailymotion_com/?url=x5f34vo&mode=playVideo
-
-#EXTINF:1,ΤΖΕΝΗ ΤΖΕΝΗ (Τ.ΚΑΡΕΖΗ) ΜΕΡΟΣ 2ο
-plugin://plugin.video.dailymotion_com/?url=x5f37d9&mode=playVideo
-
-#EXTINF:1,ΚΑΤΙ ΝΑ ΚΑΙΕΙ(ΗΛΙΟΠΟΥΛΟΣ - ΒΛΑΧΟΠΟΥΛΟΥ) ΜΕΡΟΣ 1ο
-plugin://plugin.video.dailymotion_com/?url=x56649l&mode=playVideo
-
-#EXTINF:1,ΚΑΤΙ ΝΑ ΚΑΙΕΙ (ΗΛΙΟΠΟΥΛΟΣ - ΒΛΑΧΟΠΟΥΛΟΥ) ΜΕΡΟΣ 2ο
-plugin://plugin.video.dailymotion_com/?url=x5666sq&mode=playVideo
-
-#EXTINF:1,ΜΙΑ ΤΡΕΛΗ..ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ ΜΕΡΟΣ 1ο
-plugin://plugin.video.dailymotion_com/?url=x50xumm&mode=playVideo
-
-#EXTINF:1,ΜΙΑ ΤΡΕΛΗ..ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ ΜΕΡΟΣ 2ο
-plugin://plugin.video.dailymotion_com/?url=x50y2lw&mode=playVideo
-
-#EXTINF:1,ΟΙ ΘΑΛΑΣΣΙΕΣ ΟΙ ΧΑΝΤΡΕΣ ΜΕΡΟΣ 1ο
-plugin://plugin.video.dailymotion_com/?url=x5dtdgk&mode=playVideo
-
-#EXTINF:1,ΟΙ ΘΑΛΑΣΣΙΕΣ ΟΙ ΧΑΝΤΡΕΣ ΜΕΡΟΣ 2ο
-plugin://plugin.video.dailymotion_com/?url=x5dti0x&mode=playVideo
-
 #EXTINF:1,ΜΙΑ ΙΤΑΛΙΔΑ ΑΠΟ ΤΗΝ ΚΥΨΕΛΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=WUkWzl_vmuc
 
 #EXTINF:1,Ο ΜΑΓΚΑΣ ΜΕ ΤΟ ΤΡΙΚΥΚΛΟ
 plugin://plugin.video.youtube/?action=play_video&videoid=QG83Olg4EoA
 
-#EXTINF:1,ΤΑ ΣΑΙΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.dailymotion_com/?url=x3cosvn&mode=playVideo
-
-#EXTINF:1,ΞΕΝΟΔΟΧΕΙΟ ΚΑΣΤΡΙ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.dailymotion_com/?url=x3cmisg&mode=playVideo
-
 #EXTINF:1,ΤΑ ΠΑΙΔΙΑ ΤΗΣ ΠΙΑΤΣΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=o3-EncKqTnA
 
 #EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=gq4dNglcRDg
-
-#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
-plugin://plugin.video.dailymotion_com/?url=x2exp75&mode=playVideo
-
-#EXTINF:1,ΤΟ ΠΑΙΖΩ ΚΑΙ ΠΟΛΥ ΑΝΤΡΑΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=KTFQc6KFshU
 
 #EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
@@ -104,6 +62,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=7NAbG340E8k
 
 #EXTINF:1,ΑΚΑΤΑΜΑΧΗΤΟΣ ΠΙΛΟΤΟΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=IYFyBPkQQsk
+
+#EXTINF:1,ΤΑ ΣΑΙΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.dailymotion_com/?url=x3cosvn&mode=playVideo
+
+#EXTINF:1,ΞΕΝΟΔΟΧΕΙΟ ΚΑΣΤΡΙ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.dailymotion_com/?url=x3cmisg&mode=playVideo
+
+#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.dailymotion_com/?url=x2exp75&mode=playVideo
+
+#EXTINF:1,ΤΟ ΠΑΙΖΩ ΚΑΙ ΠΟΛΥ ΑΝΤΡΑΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=KTFQc6KFshU
 
 #EXTINF:1,ΠΕΡΑΣΤΕ..ΦΙΛΗΣΤΕ..ΤΕΛΕΙΩΣΑΤΕ..(ΠΑΝΟΣ ΜΙΧΑΛΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=vdJd1Y0eRIw
