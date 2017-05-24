@@ -1,37 +1,13 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1,ΜΙΑ ΙΤΑΛΙΔΑ ΑΠΟ ΤΗΝ ΚΥΨΕΛΗ
-plugin://plugin.video.youtube/?action=play_video&videoid=WUkWzl_vmuc
-
-#EXTINF:1,Ο ΜΑΓΚΑΣ ΜΕ ΤΟ ΤΡΙΚΥΚΛΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=QG83Olg4EoA
-
-#EXTINF:1,ΤΑ ΠΑΙΔΙΑ ΤΗΣ ΠΙΑΤΣΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=o3-EncKqTnA
-
 #EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=gq4dNglcRDg
 
-#EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
-
-#EXTINF:1,ΑΡΙΣΤΟΤΕΛΗΣ Ο ΕΠΙΠΟΛΑΙΟΣ (ΝΙΚΟΣ ΣΤΑΥΡΙΔΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=7LQdbcsV-jU
-
-#EXTINF:1,ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΜΟ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=AT6sClrvCF0
-
-#EXTINF:1,Η ΚΑΦΕΤΖΟΥ (ΒΑΣΙΛΕΙΑΔΟΥ)
-plugin://plugin.video.youtube/?action=play_video&videoid=ftfgJPUgDfU
-
-#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου (ΧΑΤΖΗΧΡΗΣΤΟΣ - ΒΕΓΓΟΣ - ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=dUj51h8tlbU
-
-#EXTINF:1,ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=kgnaws8tnXI
-
 #EXTINF:1,ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=RnjIP4Nk_qQ
+
+#EXTINF:1,ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=5N0JsdKEwME
 
 #EXTINF:1,ΚΑΙ Ο ΠΡΩΤΟΣ ΜΑΤΑΚΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=3n8Ws6mUD_I
