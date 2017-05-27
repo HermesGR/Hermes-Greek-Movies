@@ -1,5 +1,17 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, ΕΓΩ ΚΑΙ ΤΟ ΠΟΥΛΙ ΜΟΥ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=uMwsuyDL3_g
+
+#EXTINF:1, Ο ΔΥΝΑΣΤΕΙΑΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=8zu_1RsuU90
+
+#EXTINF:1, Ο ΣΕΞΟΚΥΝΗΓΟΣ (ΦΑΙΔΩΝ ΓΕΩΡΓΙΤΣΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=uONn2YL4RnU
+
+#EXTINF:1, ΜΗΤΣΟΣ Ο ΡΕΖΙΛΗΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=O108plYp4uk
+
 #EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=gq4dNglcRDg
 
