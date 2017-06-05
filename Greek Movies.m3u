@@ -1,5 +1,14 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, ΕΝΑ ΕΞΥΠΝΟ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=eQeA-x3snvI
+
+#EXTINF:1, Ο ΚΑΤΕΡΓΑΡΗΣ (ΧΡΟΝΗΣ ΕΞΑΡΧΑΚΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=tCJU2e03sPE
+
+#EXTINF:1, ΚΑΤΙ ΚΟΥΡΑΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=VrcQ7LWrVIE
+
 #EXTINF:1, ΕΓΩ ΚΑΙ ΤΟ ΠΟΥΛΙ ΜΟΥ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=uMwsuyDL3_g
 
@@ -108,6 +117,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=5ivYGujJKmk
 #EXTINF:1,Ο ΦΙΛΟΣ ΜΟΥ Ο ΛΕΥΤΕΡΑΚΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=CG_Ne0S8yrQ
 
+#EXTINF:1, ΤΡΙΤΗ ΚΑΙ 13 (ΣΤΑΥΡΙΔΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1,Ο ΚΑΤΕΡΓΑΡΗΣ (1971)
 plugin://plugin.video.youtube/?action=play_video&videoid=jw26ghqK-5A
 
@@ -152,6 +164,15 @@ plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
 
 #EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oe
+
+#EXTINF:1, ΑΥΣΤΗΡΩΣ ΚΑΤΑΛΛΗΛΟ !!
+plugin://plugin.video.youtube/?action=play_video&videoid=fu2fo3T51eE
+
+#EXTINF:1, ΣΟΥΛΑ ΕΛΑ ΞΑΝΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=qM7Wvq2VbSc
+
+#EXTINF:1, ΜΙΑ ΜΕΛΙΣΣΑ ΤΟΝ ΑΥΓΟΥΣΤΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=LSfo_jprgFU
 
 #EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
 plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
