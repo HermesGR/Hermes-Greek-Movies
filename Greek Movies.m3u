@@ -1,5 +1,35 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
+
+#EXTINF:1, Ο ΤΡΕΛΟΣ ΤΑ'ΧΕΙ 400 !!! (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=yNIb4U_e8ro
+
+#EXTINF:1, ΔΙΠΛΟΠΕΝΙΕΣ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
+plugin://plugin.video.youtube/?action=play_video&videoid=W7jDa-cyiLE
+
+#EXTINF:1, ΕΝΑ ΚΟΡΙΤΣΙ ΓΙΑ 2 (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=bIbFMInqj9s
+
+#EXTINF:1, Ο ΦΑΦΛΑΤΑΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=emdrc3js8Gg
+
+#EXTINF:1, Ο ΓΟΗΣ 
+plugin://plugin.video.youtube/?action=play_video&videoid=XnkAOFEsGY8
+
+#EXTINF:1, Ο ΑΠΙΘΑΝΟΣ (ΧΑΤΖΗΧΡΗΣΤΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=q8FAq6uTKk4
+
+#EXTINF:1, Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=I8sbjZTtUmY
+
+#EXTINF:1, Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=4-qZUYKDqGY
+
+#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΓΙΑ ΟΛΕΣ ΤΙΣ ΔΟΥΛΕΙΕΣ (ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
 #EXTINF:1, ΕΝΑ ΕΞΥΠΝΟ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=eQeA-x3snvI
 
