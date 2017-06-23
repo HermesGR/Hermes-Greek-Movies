@@ -6,6 +6,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 #EXTINF:1, Ο ΤΡΕΛΟΣ ΤΑ'ΧΕΙ 400 !!! (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=yNIb4U_e8ro
 
+#EXTINF:1, Ο ΠΕΘΕΡΟΠΛΗΚΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=qNLyRLxt-Nk
+
 #EXTINF:1, ΔΙΠΛΟΠΕΝΙΕΣ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=W7jDa-cyiLE
 
