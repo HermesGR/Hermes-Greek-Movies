@@ -3,6 +3,30 @@
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
+#EXTINF:1, Ο ΞΥΠΟΛΗΤΟΣ ΠΡΙΓΚΗΨ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ - ΜΑΡΘΑ ΚΑΡΑΓΙΑΝΝΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ysk9-YMIDyE
+
+#EXTINF:1, Η ΡΕΝΑ ΕΙΝΑΙ ΟΦΣΑΙΝΤ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=Xq3v9dAxVEo
+
+#EXTINF:1, Η ΧΑΡΤΟΠΑΙΧΤΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=vqeXmWMlPHQ
+
+#EXTINF:1, ΜΕΡΙΚΟΙ ΤΟ ΠΡΟΤΙΜΟΥΝ ΚΡΥΟ (ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=DzP5F5JU9w8
+
+#EXTINF:1, Η ΛΙΖΑ ΚΑΙ Η ΑΛΛΗ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
+
+#EXTINF:1, Η ΘΕΙΑ ΑΠΟ ΤΟ ΣΙΚΑΓΟ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=IKdizXzkUhY
+
+#EXTINF:1, Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΜΑΚΑΡΙΤΗ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ex4sKNjCrMg
+
+#EXTINF:1, ΜΙΑ ΤΡΕΛΗ ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ (ΤΖ.ΚΑΡΕΖΗ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=HRPcmnEnKYg
+
 #EXTINF:1, Ο ΤΡΕΛΟΣ ΤΑ'ΧΕΙ 400 !!! (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=yNIb4U_e8ro
 
@@ -41,6 +65,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=tCJU2e03sPE
 
 #EXTINF:1, ΚΑΤΙ ΚΟΥΡΑΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=VrcQ7LWrVIE
+
+#EXTINF:1, ΜΗΝ ΕΙΔΑΤΕ ΤΟΝ ΠΑΝΑΗ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=3SdhTwPX27g
 
 #EXTINF:1, ΕΓΩ ΚΑΙ ΤΟ ΠΟΥΛΙ ΜΟΥ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=uMwsuyDL3_g
