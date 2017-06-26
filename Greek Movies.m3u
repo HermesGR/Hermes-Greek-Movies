@@ -3,6 +3,24 @@
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
+#EXTINF:1, ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=dOJU5PnfRJE
+
+#EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=e1jkoOBrwTQ
+
+#EXTINF:1, ΜΙΑ ΤΡΕΛΗ ΤΡΕΛΗ ΣΑΡΑΝΤΑΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=hZiyi1JNKAw
+
+#EXTINF:1, ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=vVazDzi72JY
+
+#EXTINF:1, ΕΝΑΣ ΑΦΡΑΓΚΟΣ ΩΝΑΣΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=htY18KCxrg8
+
+#EXTINF:1, Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΗΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=bDtOpl99ME
+
 #EXTINF:1, Ο ΞΥΠΟΛΗΤΟΣ ΠΡΙΓΚΗΨ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ - ΜΑΡΘΑ ΚΑΡΑΓΙΑΝΝΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=ysk9-YMIDyE
 
