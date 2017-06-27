@@ -3,6 +3,18 @@
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
+#EXTINF:1, ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ'ΤΟΝ ΠΑΡΑΔΕΙΣΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=kV8x0BTSuqA
+
+#EXTINF:1, ΜΙΑ ΙΤΑΛΙΔΑ ΑΠ'ΤΗ ΚΥΨΕΛΗ (ΜΑΡΩ ΚΟΝΤΟΥ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=PDQFvyc9d9k
+
+#EXTINF:1, Ο ΤΡΕΛΟΠΕΝΗΝΤΑΡΗΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=KMVkTjyqfJ0
+
+#EXTINF:1, ΤΕΝΤΥ ΜΠΟΥ ΑΓΑΠΗ ΜΟΥ (ΖΩΗ ΛΑΣΚΑΡΗ - ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) *New Entry*
+plugin://plugin.video.youtube/?action=play_video&videoid=gXFCJFIYPYQ
+
 #EXTINF:1, ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) *New Entry*
 plugin://plugin.video.youtube/?action=play_video&videoid=dOJU5PnfRJE
 
