@@ -1,5 +1,6 @@
 # Hermes-Greek-Movies
 
+
 #EXTINF:1, ΓΑΜΠΡΟΣ ΑΠΟ ΤΟ ΛΟΝΔΙΝΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=UWiNddcWyRo
 
@@ -8,6 +9,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=PQw8BlJA3PM
 
 #EXTINF:1, Η ΛΙΖΑ ΚΑΙ Η ΑΛΛΗ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
+
+#EXTINF:1, Ο ΦΑΝΤΑΣΜΕΝΟΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=emdrc3js8Gg
 
 #EXTINF:1, ΤΡΕΛΟΣ, ΠΑΛΑΒΟΣ ΚΑΙ ΒΕΓΓΟΣ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=2qxFhVU3gbg
