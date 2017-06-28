@@ -1,6 +1,5 @@
 # Hermes-Greek-Movies
 
-
 #EXTINF:1, ΓΑΜΠΡΟΣ ΑΠΟ ΤΟ ΛΟΝΔΙΝΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=UWiNddcWyRo
 
@@ -12,12 +11,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
 
 #EXTINF:1, Ο ΦΑΝΤΑΣΜΕΝΟΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=emdrc3js8Gg
-
-#EXTINF:1, ΤΡΕΛΟΣ, ΠΑΛΑΒΟΣ ΚΑΙ ΒΕΓΓΟΣ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=2qxFhVU3gbg
-
-#EXTINF:1, ΤΟ ΣΤΡΑΒΟΞΥΛΟ (ΑΝ.ΜΠΑΡΚΟΥΛΗΣ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=22fl8WQpjms
 
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
@@ -93,6 +86,25 @@ plugin://plugin.video.youtube/?action=play_video&videoid=emdrc3js8Gg
 
 #EXTINF:1, Ο ΓΟΗΣ 
 plugin://plugin.video.youtube/?action=play_video&videoid=XnkAOFEsGY8
+
+#EXTINF:1, ΟΙΚΟΓΕΝΕΙΑ ΧΩΡΑΦΑ (ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ - Μ.ΚΟΝΤΟΥ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=6G0QlrmuVIo
+
+#EXTINF:1, ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (Β.ΛΟΓΟΘΕΤΙΔΗΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=AbYuX2s28Sg
+
+#EXTINF:1, ΛΑΤΕΡΝΑ, ΦΤΩΧΕΙΑ ΚΑΙ ΦΙΛΟΤΙΜΟ () 
+plugin://plugin.video.youtube/?action=play_video&videoid=TyCzLwW1mvg
+
+#EXTINF:1, ΛΑΘΟΣ ΣΤΟΝ ΕΡΩΤΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=itK42duHr6s
+
+#EXTINF:1, ΤΡΕΛΟΣ, ΠΑΛΑΒΟΣ ΚΑΙ ΒΕΓΓΟΣ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=2qxFhVU3gbg
+
+#EXTINF:1, ΤΟ ΣΤΡΑΒΟΞΥΛΟ (ΑΝ.ΜΠΑΡΚΟΥΛΗΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=22fl8WQpjms
+
 
 #EXTINF:1, Ο ΑΠΙΘΑΝΟΣ (ΧΑΤΖΗΧΡΗΣΤΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=q8FAq6uTKk4
