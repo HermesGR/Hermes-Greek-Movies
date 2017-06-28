@@ -1,5 +1,17 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, ΜΑΡΙΧΟΥΑΝΑ STOP (ΛΑΣΚΑΡΗ - ΠΑΝΤΖΑΣ - ΕΞΑΡΧΑΚΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=PQw8BlJA3PM
+
+#EXTINF:1, Η ΛΙΖΑ ΚΑΙ Η ΑΛΛΗ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
+
+#EXTINF:1, ΤΡΕΛΟΣ, ΠΑΛΑΒΟΣ ΚΑΙ ΒΕΓΓΟΣ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=2qxFhVU3gbg
+
+#EXTINF:1, ΤΟ ΣΤΡΑΒΟΞΥΛΟ (ΑΝ.ΜΠΑΡΚΟΥΛΗΣ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=22fl8WQpjms
+
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
