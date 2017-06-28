@@ -3,31 +3,31 @@
 #EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
-#EXTINF:1, ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ'ΤΟΝ ΠΑΡΑΔΕΙΣΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) *New Entry*
+#EXTINF:1, ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ'ΤΟΝ ΠΑΡΑΔΕΙΣΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=kV8x0BTSuqA
 
-#EXTINF:1, ΜΙΑ ΙΤΑΛΙΔΑ ΑΠ'ΤΗ ΚΥΨΕΛΗ (ΜΑΡΩ ΚΟΝΤΟΥ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ) *New Entry*
+#EXTINF:1, ΜΙΑ ΙΤΑΛΙΔΑ ΑΠ'ΤΗ ΚΥΨΕΛΗ (ΜΑΡΩ ΚΟΝΤΟΥ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=PDQFvyc9d9k
 
-#EXTINF:1, Ο ΤΡΕΛΟΠΕΝΗΝΤΑΡΗΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) *New Entry*
+#EXTINF:1, Ο ΤΡΕΛΟΠΕΝΗΝΤΑΡΗΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=KMVkTjyqfJ0
 
-#EXTINF:1, ΤΕΝΤΥ ΜΠΟΥ ΑΓΑΠΗ ΜΟΥ (ΖΩΗ ΛΑΣΚΑΡΗ - ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) *New Entry*
+#EXTINF:1, ΤΕΝΤΥ ΜΠΟΥ ΑΓΑΠΗ ΜΟΥ (ΖΩΗ ΛΑΣΚΑΡΗ - ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=gXFCJFIYPYQ
 
-#EXTINF:1, ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) *New Entry*
+#EXTINF:1, ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=dOJU5PnfRJE
 
-#EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) *New Entry*
+#EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=e1jkoOBrwTQ
 
-#EXTINF:1, ΜΙΑ ΤΡΕΛΗ ΤΡΕΛΗ ΣΑΡΑΝΤΑΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) *New Entry*
+#EXTINF:1, ΜΙΑ ΤΡΕΛΗ ΤΡΕΛΗ ΣΑΡΑΝΤΑΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=hZiyi1JNKAw
 
-#EXTINF:1, ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) *New Entry*
+#EXTINF:1, ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=vVazDzi72JY
 
-#EXTINF:1, ΕΝΑΣ ΑΦΡΑΓΚΟΣ ΩΝΑΣΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) *New Entry*
+#EXTINF:1, ΕΝΑΣ ΑΦΡΑΓΚΟΣ ΩΝΑΣΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=htY18KCxrg8
 
 #EXTINF:1, Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΗΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) *New Entry*
@@ -77,6 +77,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=XnkAOFEsGY8
 
 #EXTINF:1, Ο ΑΠΙΘΑΝΟΣ (ΧΑΤΖΗΧΡΗΣΤΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=q8FAq6uTKk4
+
+#EXTINF:1, H ΑΔΕΡΦΗ ΜΟΥ ΘΕΛΕΙ ΞΥΛΟ (Δ.ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΣ - Ν.ΡΙΖΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=WZzqcN93gvA
+
+#EXTINF:1, ΧΩΡΙΣ ΤΑΥΤΟΤΗΤΑ (ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ - ΖΩΗ ΛΑΣΚΑΡΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=N2j84OpGobs
 
 #EXTINF:1, Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (ΗΛΙΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=I8sbjZTtUmY
