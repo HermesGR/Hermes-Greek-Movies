@@ -3,6 +3,9 @@
 #EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΓΥΡΙΣΕ ΑΠΟ ΤΗΝ ΖΕΣΤΗ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=TsOGzdoAZ-4
 
+#EXTINF:1, ΚΑΤΙ ΚΟΥΡΑΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=VrcQ7LWrVIE
+
 #EXTINF:1, ΠΙΣΩ ΜΟΥ ΣΕ ΕΧΩ ΣΑΤΑΝΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=357fVFwYFME
 
@@ -173,9 +176,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eQeA-x3snvI
 
 #EXTINF:1, Ο ΚΑΤΕΡΓΑΡΗΣ (ΧΡΟΝΗΣ ΕΞΑΡΧΑΚΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=tCJU2e03sPE
-
-#EXTINF:1, ΚΑΤΙ ΚΟΥΡΑΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (ΛΑΜΠΡΟΣ ΚΩΣΤΑΝΤΑΡΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=VrcQ7LWrVIE
 
 #EXTINF:1, ΜΗΝ ΕΙΔΑΤΕ ΤΟΝ ΠΑΝΑΗ (ΘΑΝΑΣΗΣ ΒΕΓΓΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=3SdhTwPX27g
