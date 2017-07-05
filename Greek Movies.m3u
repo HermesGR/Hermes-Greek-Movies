@@ -6,6 +6,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=TsOGzdoAZ-4
 #EXTINF:1, ΠΙΣΩ ΜΟΥ ΣΕ ΕΧΩ ΣΑΤΑΝΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=357fVFwYFME
 
+#EXTINF:1, ΤΟΝ ΑΡΑΠΗ ΚΙ ΑΝ ΤΟΝ ΠΛΕΝΕΙΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=OGab3dPEbrA
+
 #EXTINF:1, ΜΙΑ ΚΥΡΙΑ ΣΤΑ ΜΠΟΥΖΟΥΚΙΑ (ΖΩΗ ΛΑΣΚΑΡΗ - ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=VBNLMkWQYs8
 
