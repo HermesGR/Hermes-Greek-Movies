@@ -1,5 +1,8 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, 7 ΧΡΟΝΙΑ ΓΑΜΟΥ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=599EfVueWDI
+
 #EXTINF:1, ΓΑΜΠΡΟΣ ΑΠΟ ΤΟ ΛΟΝΔΙΝΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=UWiNddcWyRo
 
