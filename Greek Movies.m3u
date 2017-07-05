@@ -6,6 +6,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=TsOGzdoAZ-4
 #EXTINF:1, ΠΙΣΩ ΜΟΥ ΣΕ ΕΧΩ ΣΑΤΑΝΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=357fVFwYFME
 
+#EXTINF:1, ΤΡΕΛΟΚΟΡΙΤΣΟ (ΤΖ.ΚΑΡΕΖΗ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=1-BxYbFuYXM
+
 #EXTINF:1, ΤΟΝ ΑΡΑΠΗ ΚΙ ΑΝ ΤΟΝ ΠΛΕΝΕΙΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=OGab3dPEbrA
 
@@ -15,11 +18,29 @@ plugin://plugin.video.youtube/?action=play_video&videoid=VBNLMkWQYs8
 #EXTINF:1, 7 ΧΡΟΝΙΑ ΓΑΜΟΥ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=599EfVueWDI
 
+#EXTINF:1, ΧΤΥΠΟΚΑΡΔΙΑ ΣΤΟ ΘΡΑΝΙΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ)
+plugin://plugin.video.youtube/?action=play_video&videoid=rZcLw4-riKE
+
+#EXTINF:1, ΑΠ'Τ'ΑΛΩΝΙΑ ΣΤΑ ΣΑΛΟΝΙΑ(Δ.ΣΤΥΛΙΑΝΟΠΟΥΛΟΥ - Ν.ΡΙΖΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=N26Jwudjx8M
+
+#EXTINF:1, ΤΟ ΚΟΡΙΤΣΙ ΤΟΥ ΛΟΥΝΑ ΠΑΡΚ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ)
+plugin://plugin.video.youtube/?action=play_video&videoid=WwdWNWqNf8Q
+
+#EXTINF:1, ΒΙΒΑ ΡΕΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) 
+plugin://plugin.video.youtube/?action=play_video&videoid=3v_GnU-m_II
+
 #EXTINF:1, ΤΟ ΠΙΟ ΛΑΜΠΡΟ ΜΠΟΥΖΟΥΚΙ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=qKtINA2fXRA
 
-#EXTINF:1, ΓΑΜΠΡΟΣ ΑΠΟ ΤΟ ΛΟΝΔΙΝΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=UWiNddcWyRo
+#EXTINF:1, ΓΑΜΠΡΟΣ ΑΠΟ ΤΟ ΛΟΝΔΙΝΟ (Κ.ΒΟΥΤΣΑΣ - Μ.ΒΟΥΡΤΣΗ - Μ.ΚΑΡΑΓΙΑΝΝΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=P26fvMyuBCo
+
+#EXTINF:1, Ο ΣΚΛΗΡΟΣ ΑΝΤΡΑΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=qKtINA2fXRA
+
+#EXTINF:1, ΔΥΟ ΜΟΝΤΕΡΝΟΙ ΓΛΕΝΤΖΕΔΕΣ (Ν.ΣΤΑΥΡΙΔΗΣ - ΑΛ.ΤΖΑΝΕΤΑΚΟ)
+plugin://plugin.video.youtube/?action=play_video&videoid=IB6Gq-BpxoI
 
 #EXTINF:1, ΜΑΡΙΧΟΥΑΝΑ STOP (ΛΑΣΚΑΡΗ - ΠΑΝΤΖΑΣ - ΕΞΑΡΧΑΚΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=PQw8BlJA3PM
@@ -48,8 +69,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=gXFCJFIYPYQ
 #EXTINF:1, ΤΟ ΔΟΛΩΜΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=dOJU5PnfRJE
 
+#EXTINF:1, ΚΑΛΩΣ ΗΛΘΕ ΤΟ ΔΟΛΛΑΡΙΟ (ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=4gAqF3wMqoA
+
 #EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=e1jkoOBrwTQ
+
+#EXTINF:1, ΜΙΑ ΕΛΛΗΝΙΔΑ ΣΤΟ ΧΑΡΕΜΙ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=kEtuHSRjX2o
 
 #EXTINF:1, ΜΙΑ ΤΡΕΛΗ ΤΡΕΛΗ ΣΑΡΑΝΤΑΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=hZiyi1JNKAw
@@ -60,7 +87,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=vVazDzi72JY
 #EXTINF:1, ΕΝΑΣ ΑΦΡΑΓΚΟΣ ΩΝΑΣΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=htY18KCxrg8
 
-#EXTINF:1, Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΗΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) *New Entry*
+#EXTINF:1, Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΗΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=bDtOpl99ME
 
 #EXTINF:1, Ο ΞΥΠΟΛΗΤΟΣ ΠΡΙΓΚΗΨ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ - ΜΑΡΘΑ ΚΑΡΑΓΙΑΝΝΗ)
@@ -114,7 +141,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6G0QlrmuVIo
 #EXTINF:1, ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (Β.ΛΟΓΟΘΕΤΙΔΗΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=AbYuX2s28Sg
 
-#EXTINF:1, ΛΑΤΕΡΝΑ, ΦΤΩΧΕΙΑ ΚΑΙ ΦΙΛΟΤΙΜΟ () 
+#EXTINF:1, ΛΑΤΕΡΝΑ, ΦΤΩΧΕΙΑ ΚΑΙ ΦΙΛΟΤΙΜΟ 
 plugin://plugin.video.youtube/?action=play_video&videoid=TyCzLwW1mvg
 
 #EXTINF:1, ΛΑΘΟΣ ΣΤΟΝ ΕΡΩΤΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) 
@@ -125,7 +152,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=2qxFhVU3gbg
 
 #EXTINF:1, ΤΟ ΣΤΡΑΒΟΞΥΛΟ (ΑΝ.ΜΠΑΡΚΟΥΛΗΣ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=22fl8WQpjms
-
 
 #EXTINF:1, Ο ΑΠΙΘΑΝΟΣ (ΧΑΤΖΗΧΡΗΣΤΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=q8FAq6uTKk4
@@ -141,9 +167,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=I8sbjZTtUmY
 
 #EXTINF:1, Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ (ΒΑΣΙΛΕΙΑΔΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=4-qZUYKDqGY
-
-#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΓΙΑ ΟΛΕΣ ΤΙΣ ΔΟΥΛΕΙΕΣ (ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
-plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1, ΕΝΑ ΕΞΥΠΝΟ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=eQeA-x3snvI
