@@ -1,5 +1,12 @@
 # Hermes-Greek-Movies
 
+
+#EXTINF:1, Η ΨΕΥΤΡΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ZUMgS1E9O24
+
+#EXTINF:1, Ο ΗΛΙΑΣ ΤΟΥ 16ου (ΧΑΤΖΗΧΡΗΣΤΟΣ - ΒΕΓΓΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=fa1m17IIfrw
+
 #EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΓΥΡΙΣΕ ΑΠΟ ΤΗΝ ΖΕΣΤΗ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=TsOGzdoAZ-4
 
@@ -114,6 +121,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=G5ZhYs3hoPc
 #EXTINF:1, Η ΘΕΙΑ ΑΠΟ ΤΟ ΣΙΚΑΓΟ (ΒΑΣΙΛΕΙΑΔΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=IKdizXzkUhY
 
+#EXTINF:1, Η ΚΥΡΙΑ ΔΗΜΑΡΧΟΣ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=siwcu3XXGcM
+
 #EXTINF:1, Ο ΘΗΣΑΥΡΟΣ ΤΟΥ ΜΑΚΑΡΙΤΗ (ΒΑΣΙΛΕΙΑΔΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=ex4sKNjCrMg
 
@@ -122,6 +132,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HRPcmnEnKYg
 
 #EXTINF:1, Ο ΤΡΕΛΟΣ ΤΑ'ΧΕΙ 400 !!! (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=yNIb4U_e8ro
+
+#EXTINF:1, Η ΝΥΦΗ ΤΟ 'ΣΚΑΣΕ (ΤΖ.ΚΑΡΕΖΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=e_n1VOECpb4
 
 #EXTINF:1, Ο ΠΕΘΕΡΟΠΛΗΚΤΟΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=qNLyRLxt-Nk
