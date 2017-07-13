@@ -1,6 +1,9 @@
 # Hermes-Greek-Movies
 
 
+#EXTINF:1, ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ (ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=9AbMMVQ513U
+
 #EXTINF:1, Η ΨΕΥΤΡΑ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=ZUMgS1E9O24
 
@@ -117,6 +120,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
 
 #EXTINF:1, ΤΟ ΛΕΒΕΝΤΟΠΑΙΔΟ (ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=G5ZhYs3hoPc
+
+#EXTINF:1, Η ΚΥΡΑ ΜΑΣ Η ΜΑΜΗ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=zAJ_jySUmTw
 
 #EXTINF:1, Η ΘΕΙΑ ΑΠΟ ΤΟ ΣΙΚΑΓΟ (ΒΑΣΙΛΕΙΑΔΟΥ)
 plugin://plugin.video.youtube/?action=play_video&videoid=IKdizXzkUhY
