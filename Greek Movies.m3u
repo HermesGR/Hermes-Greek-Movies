@@ -1,5 +1,22 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
+
+#EXTINF:1, Ο ΖΗΚΟΣ - ΕΓΧΡΩΜΟ (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=XGV9G7Fudhg
+
+#EXTINF:1, Η ΧΑΡΤΟΠΑΙΧΤΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ - ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=2Z-wXPHDEy0
+
+#EXTINF:1, Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=iyYGbFajpW0
+
+#EXTINF:1, Ο ΞΥΠΟΛΗΤΟΣ ΠΡΙΓΚΗΨ (Κ.ΒΟΥΤΣΑΣ - Μ.ΚΑΡΑΓΙΑΝΝΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=M-jJIY52mHQ
+
+#EXTINF:1, Η ΚΑΦΕΤΖΟΥ (Γ.ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ZRNSULkbdC0
 
 #EXTINF:1, ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ (ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=9AbMMVQ513U
@@ -63,9 +80,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0XLeYNGvy9E
 
 #EXTINF:1, Ο ΦΑΝΤΑΣΜΕΝΟΣ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=emdrc3js8Gg
-
-#EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
-plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
 
 #EXTINF:1, ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠ'ΤΟΝ ΠΑΡΑΔΕΙΣΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=kV8x0BTSuqA
