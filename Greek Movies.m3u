@@ -48,6 +48,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=VBNLMkWQYs8
 #EXTINF:1, 7 ΧΡΟΝΙΑ ΓΑΜΟΥ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=599EfVueWDI
 
+#EXTINF:1, ΓΙΑ ΠΟΙΟΝ ΧΤΥΠΑ Η ΚΟΥΔΟΥΝΑ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=mAHSj2wbdjs
+
 #EXTINF:1, ΧΤΥΠΟΚΑΡΔΙΑ ΣΤΟ ΘΡΑΝΙΟ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=rZcLw4-riKE
 
