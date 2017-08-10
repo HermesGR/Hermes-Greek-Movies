@@ -1,10 +1,5 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1, Η ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΔΡΑ - ΕΓΧΡΩΜΟ (ΜΑΡΩ ΚΟΝΤΟΥ - ΓΙΩΡΓΟΣ ΚΩΣΤΑΝΤΙΝΟΥ)
-plugin://plugin.video.youtube/?action=play_video&videoid=0F6XUiHa5Yo
-
-#EXTINF:1, Ο ΖΗΚΟΣ - ΕΓΧΡΩΜΟ (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=XGV9G7Fudhg
 
 #EXTINF:1, Η ΧΑΡΤΟΠΑΙΧΤΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ - ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=2Z-wXPHDEy0
