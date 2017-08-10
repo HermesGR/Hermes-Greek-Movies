@@ -4,9 +4,6 @@
 #EXTINF:1, Η ΧΑΡΤΟΠΑΙΧΤΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ - ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=2Z-wXPHDEy0
 
-#EXTINF:1, Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=iyYGbFajpW0
-
 #EXTINF:1, Ο ΞΥΠΟΛΗΤΟΣ ΠΡΙΓΚΗΨ (Κ.ΒΟΥΤΣΑΣ - Μ.ΚΑΡΑΓΙΑΝΝΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=M-jJIY52mHQ
 
