@@ -1,5 +1,8 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,ΝΥΧΤΑ ΓΑΜΟΥ (Κ.ΒΟΥΤΣΑΣ - Μ.ΚΑΡΑΓΙΑΝΝΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=rbPIlrqHYEI
+
 #EXTINF:1,Η ΑΓΑΠΗ ΜΑΣ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=2jVsWOBhbrE
 
