@@ -1,5 +1,46 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1,Η ΑΓΑΠΗ ΜΑΣ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
+plugin://plugin.video.youtube/?action=play_video&videoid=2jVsWOBhbrE
+
+#EXTINF:1,Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΙΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
+plugin://plugin.video.youtube/?action=play_video&videoid=-bDtOpl99ME
+
+#EXTINF:1,ΟΙ ΚΛΗΡΟΝΟΜΟΙ (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=2C_L4CwRWXk
+
+#EXTINF:1,ΦΩΝΑΖΕΙ Ο ΚΛΕΦΤΗΣ (Ρ.ΒΛΑΧΟΠΟΥΛΟΥ - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=kdFQNNh0ENI
+
+#EXTINF:1,ΕΝΑ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=1W6J6QOl374
+
+#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=fa1m17IIfrw
+
+#EXTINF:1,Ο ΑΧΑΙΡΕΥΤΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=XhHvhoIGic0
+
+#EXTINF:1,ΠΡΟΠΑΝΤΟΣ ΨΥΧΡΑΙΜΙΑ (ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=aNmLRC6VNMA
+
+#EXTINF:1,ΦΟΥΣΚΟΘΑΛΑΣΣΙΕΣ (Δ.ΠΑΠΑΓΙΑΝΟΠΟΥΛΟΣ - Μ.ΑΡΩΝΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=n1Bdu7uwAiI
+
+#EXTINF:1,100 ΧΙΛΙΑΔΕΣ ΛΙΡΕΣ (ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=AmnwbiALfN8
+
+#EXTINF:1,Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=mvamYcmQSdI
+
+#EXTINF:1,Η ΘΕΙΑ ΑΠΟ ΤΟ ΣΙΚΑΓΟ (ΒΑΣΙΛΕΙΑΔΟΥ)
+plugin://plugin.video.youtube/?action=play_video&videoid=0oO9WvUaZPc
+
+#EXTINF:1,ΚΟΡΟΙΔΟ ΓΑΜΠΡΕ (ΑΥΛΩΝΙΤΗΣ - ΣΤΑΥΡΙΔΗΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=JDHmZ2DNBYA
+
+#EXTINF:1,ΛΑΟΣ ΚΑΙ ΚΟΛΩΝΑΚΙ (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=ebxggF-_I4Y
 
 #EXTINF:1, Η ΧΑΡΤΟΠΑΙΧΤΡΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΥΛΟΥ - ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=2Z-wXPHDEy0
@@ -21,9 +62,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=mAHSj2wbdjs
 
 #EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) 
 plugin://plugin.video.youtube/?action=play_video&videoid=e1jkoOBrwTQ
-
-#EXTINF:1, Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΗΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - Δ.ΠΑΠΑΜΙΧΑΗΛ)
-plugin://plugin.video.youtube/?action=play_video&videoid=bDtOpl99ME
 
 #EXTINF:1, Η ΝΥΦΗ ΤΟ 'ΣΚΑΣΕ (ΤΖ.ΚΑΡΕΖΗ)
 plugin://plugin.video.youtube/?action=play_video&videoid=e_n1VOECpb4
