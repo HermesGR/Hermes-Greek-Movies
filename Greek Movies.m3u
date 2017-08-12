@@ -6,6 +6,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=2jVsWOBhbrE
 #EXTINF:1,Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΙΚΑΡΙ (ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ - ΔΗΜ.ΠΑΠΑΜΙΧΑΗΛ)
 plugin://plugin.video.youtube/?action=play_video&videoid=-bDtOpl99ME
 
+#EXTINF:1,Η ΒΙΛΛΑ ΤΩΝ ΟΡΓΙΩΝ (Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ)
+plugin://plugin.video.youtube/?action=play_video&videoid=T1vFikDGJ18
+
+#EXTINF:1,ΕΝΑ ΚΟΡΙΤΣΙ ΓΙΑ ΔΥΟ (ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗ - Ζ.ΛΑΣΚΑΡΗ)
+plugin://plugin.video.youtube/?action=play_video&videoid=C3igHDMXdCo
+
 #EXTINF:1,ΟΙ ΚΛΗΡΟΝΟΜΟΙ (Κ.ΧΑΤΖΗΧΡΗΣΤΟΣ - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
 plugin://plugin.video.youtube/?action=play_video&videoid=2C_L4CwRWXk
 
