@@ -1,480 +1,136 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Ο Ηλίας του 16 - NEW ED.
+plugin://plugin.video.youtube/?action=play_video&videoid=vL25ZzG2P3Y
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Λούφα και Απαλλαγή Άι Φορ
+plugin://plugin.video.youtube/?action=play_video&videoid=d_Qp0ralr1Y
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, Η ΠΑΡΙΖΙΑΝΑ (ΡΕΝΑ ΒΛΑΧΟΠΟΛΟΥ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=e1jkoOBrwTQ
-
-#EXTINF:1, Η ΝΥΦΗ ΤΟ 'ΣΚΑΣΕ (ΤΖ.ΚΑΡΕΖΗ)
-plugin://plugin.video.youtube/?action=play_video&videoid=e_n1VOECpb4
-
-#EXTINF:1, ΟΙΚΟΓΕΝΕΙΑ ΧΩΡΑΦΑ (ΑΛ.ΑΛΕΞΑΝΔΡΑΚΗΣ - Μ.ΚΟΝΤΟΥ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=6G0QlrmuVIo
-
-#EXTINF:1, ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (Β.ΛΟΓΟΘΕΤΙΔΗΣ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=AbYuX2s28Sg
-
-#EXTINF:1, ΛΑΘΟΣ ΣΤΟΝ ΕΡΩΤΑ (ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ) 
-plugin://plugin.video.youtube/?action=play_video&videoid=itK42duHr6s
-
-#EXTINF:1,ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=RnjIP4Nk_qQ
-
-#EXTINF:1,ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=5N0JsdKEwME
-
-#EXTINF:1,ΚΑΙ Ο ΠΡΩΤΟΣ ΜΑΤΑΚΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=3n8Ws6mUD_I
-
-#EXTINF:1,ΚΑΙ Ο ΠΡΩΤΟΣ ΜΠΟΥΝΑΚΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=2dkvELwUbQU
-
- #EXTINF:1,Ο ΕΡΑΣΤΗΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=z2NGmHoQwUM
-
-#EXTINF:1,ΕΛΑ ΝΑ ΑΓΑΠΗΘΟΥΜΕ ΝΤΑΡΛΙΝΓΚ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=08Y1fbQufX4
-
-#EXTINF:1,ΠΕΣ ΤΑ ΧΡΥΣΟΣΤΟΜΕ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=ERPEqRH3Tbg
-
-#EXTINF:1,Ο ΚΑΒΑΛΑΡΗΣ ΤΩΝ FM STEREO (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=knr80Dzg4ZM
-
-#EXTINF:1,ΕΡΩΤΙΑΡΗΣ ΑΠΟ ΚΟΥΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=tfUPiCYgGQU
-
-#EXTINF:1,ΤΡΕΛΑΔΙΚΟ ΠΟΛΥΤΕΛΕΙΑΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=8Ub9WuPX8iw
-
-#EXTINF:1,ΚΑΙ ΔΕΙΛΟΣ ΚΑΙ ΤΟΛΜΗΡΟΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=7NAbG340E8k
-
-#EXTINF:1,ΑΚΑΤΑΜΑΧΗΤΟΣ ΠΙΛΟΤΟΣ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=IYFyBPkQQsk
-
-#EXTINF:1,ΤΑ ΣΑΙΝΙΑ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.dailymotion_com/?url=x3cosvn&mode=playVideo
-
-#EXTINF:1,ΞΕΝΟΔΟΧΕΙΟ ΚΑΣΤΡΙ (ΣΤΑΘΗΣ ΨΑΛΤΗΣ)
-plugin://plugin.video.dailymotion_com/?url=x3cmisg&mode=playVideo
-
-#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
-plugin://plugin.video.dailymotion_com/?url=x2exp75&mode=playVideo
-
-#EXTINF:1,ΤΟ ΠΑΙΖΩ ΚΑΙ ΠΟΛΥ ΑΝΤΡΑΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=KTFQc6KFshU
-
-#EXTINF:1,ΠΕΡΑΣΤΕ..ΦΙΛΗΣΤΕ..ΤΕΛΕΙΩΣΑΤΕ..(ΠΑΝΟΣ ΜΙΧΑΛΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=vdJd1Y0eRIw
-
-#EXTINF:1,ΠΑΡΤΥ ΓΙΑ ΤΡΕΙΣ (ΣΤ.ΓΑΡΔΕΛΗΣ - ΒΑΣΙΑ ΠΑΝΑΓΟΠΟΥΛΟΥ)
-plugin://plugin.video.youtube/?action=play_video&videoid=e9_XtPcfdtw
-
-#EXTINF:1,Ο ΓΟΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ -ΧΡΩΝΗΣ ΕΞΑΡΧΑΚΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=SF-qSPplqek
-
-#EXTINF:1,ΕΝΑΣ ΤΡΕΛΟΣ ΤΡΕΛΟΣ ΑΕΡΟΠΕΙΡΑΤΗΣ (ΚΩΣΤΑΣ ΒΟΥΤΣΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=057jH9MnCJk
-
-#EXTINF:1,Ο ΚΛΕΑΡΧΟΣ Η ΜΑΡΙΝΑ ΚΑΙ Ο ΚΟΝΤΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=H0oig-hL5PI
-
-#EXTINF:1,ΕΝΑ ΕΞΥΠΝΟ ΕΞΥΠΝΟ ΜΟΥΤΡΟ (Κ.ΒΟΥΤΣΑΣ-Β.ΑΥΛΩΝΙΤΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=xEqFz5h2mE0
-
-#EXTINF:1,ΤΡΙΤΗ ΚΑΙ 13 (Ν.ΣΤΑΥΡΙΔΗΣ-Γ.ΓΚΙΩΝΑΚΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=0KbmoZtlr-M
-
-#EXTINF:1,ΟΙ ΑΣΣΟΙ ΗΤΑΝ 4 (ΝΤΙΝΟΣ ΗΛΙΟΠΟΥΛΟΣ -ΝΙΚΟΣ ΣΤΑΥΡΙΔΗΣ - ΜΙΜΗΣ ΦΩΤΟΠΟΥΛΟΣ - ΓΙΑΝΝΗΣ ΓΚΙΩΝΑΚΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=c9jJ0aWQExw
-
-#EXTINF:1,Ο ΨΕΥΤΗΣ ΘΑΛΑΣΣΙΝΟΣ ΓΙΑΤΡΟΣ (Κ.ΒΟΥΤΣΑΣ-Δ.ΠΑΠΑΓΙΑΝΝΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=8CXC_vliWXk
-
-#EXTINF:1,Ο ΥΜΝΟΣ ΤΗΣ ΜΠΟΖΟΛΑΝΤΗΣ (Ο ΣΕΡ ΚΑΡΑΜΠΟΥΜΠΑ, ΛΑΜΠΡΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=MDUVWAMYYbs
-
-#EXTINF:1,Η ΩΡΑΙΑ ΤΩΝ ΑΘΗΝΩΝ 
-plugin://plugin.video.youtube/?action=play_video&videoid=CHFSC7XVxsc
-
-#EXTINF:1,ΤΟ ΘΥΜΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=ljvjh3CPS0M
-
-#EXTINF:1,ΑΧ!ΚΑΙ ΝΑ'ΜΟΥΝ ΑΝΤΡΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=BfUrjd5C62c
-
-#EXTINF:1,ΚΑΚΟΣ, ΨΥΧΡΟΣ ΚΙ ΑΝΑΠΟΔΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=5ivYGujJKmk
-
-#EXTINF:1,Ο ΦΙΛΟΣ ΜΟΥ Ο ΛΕΥΤΕΡΑΚΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=CG_Ne0S8yrQ
-
-#EXTINF:1, ΤΡΙΤΗ ΚΑΙ 13 (ΣΤΑΥΡΙΔΗΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,Ο ΚΑΤΕΡΓΑΡΗΣ (1971)
-plugin://plugin.video.youtube/?action=play_video&videoid=jw26ghqK-5A
-
-#EXTINF:1,Ο ΠΕΘΕΡΟΠΛΗΚΤΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=lBEIt4c9qTQ
-
-#EXTINF:1,Ο ΤΖΟΓΑΔΟΡΟΣ (ΣΩΤ.ΜΟΥΣΤΑΚΑΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=x9XMV3k-2aM
-
-#EXTINF:1,ΦΑΝΤΑΡΟΙ ΓΙΑ .... ΚΛΑΜΑΤΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=t9vyJTFZ0lE
-
-#EXTINF:1,ΚΟΜΑΝΤΟΣ ΚΑΙ ΒΛΗΜΑΤΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=l6r6L0TPPIA
-
-#EXTINF:1,ΘΑΝΑΣΗ...ΣΦΙΞΕ ΚΙ ΑΛΛΟ ΤΟ ΖΩΝΑΡΙ
-plugin://plugin.video.youtube/?action=play_video&videoid=C4TCxGhM5Cc
-
-#EXTINF:1,ΚΑΚΟΣ ΨΥΧΡΟΣ ΚΙ ΑΝΑΠΟΔΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=5ivYGujJKmk
-
-#EXTINF:1,ΤΟ ΘΥΜΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=ljvjh3CPS0M
-
-#EXTINF:1,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=A7nG-ttyidc
-
-#EXTINF:1,ΝΥΜΦΙΟΣ ΑΝΥΜΦΕΥΤΟΣ (1967)
-plugin://plugin.video.youtube/?action=play_video&videoid=l5FI6WlcXjI
-
-#EXTINF:1,Ο ΛΟΥΣΤΡΑΚΟΣ (1962)
-plugin://plugin.video.youtube/?action=play_video&videoid=zHsTbyL7yKU
-
-#EXTINF:1,Η ΚΑΦΕΤΖΟΥ (1956)
-plugin://plugin.video.youtube/?action=play_video&videoid=WmHAqdzVXB8
-
-#EXTINF:1,Η ΓΥΝΑΙΚΑ ΕΙΝΑΙ ΣΚΛΗΡΟΣ ΑΝΘΡΩΠΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=V35pRuCoS98
-
-#EXTINF:1,Η ΚΥΡΙΑ ΤΟΥ ΚΥΡΙΟΥ (1962 - ΝΤ.ΗΛΙΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=10vtuN_-rBs
-
-#EXTINF:1,ΠΡΩΤΗ ΦΟΡΑ ΝΟΝΟΣ 
-plugin://plugin.video.youtube/?action=play_video&videoid=nFLzZWR_oe
-
-#EXTINF:1, ΑΥΣΤΗΡΩΣ ΚΑΤΑΛΛΗΛΟ !!
-plugin://plugin.video.youtube/?action=play_video&videoid=fu2fo3T51eE
-
-#EXTINF:1, ΣΟΥΛΑ ΕΛΑ ΞΑΝΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=qM7Wvq2VbSc
-
-#EXTINF:1, ΜΙΑ ΜΕΛΙΣΣΑ ΤΟΝ ΑΥΓΟΥΣΤΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=LSfo_jprgFU
-
-#EXTINF:1,Η ΥΠΟΓΡΑΦΗ 
-plugin://plugin.video.youtube/?action=play_video&videoid=W4KvTQVMfVg
-
-#EXTINF:1,ΣΤΟ ΞΕΣΠΑΣΜΑ ΤΟΥ ΦΕΓΓΑΡΙΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=rM_sePDJs-E
-
-#EXTINF:1,ΜΙΚΡΑ ΑΓΓΛΙΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=jjYZWoM3Pbw
-
-#EXTINF:1,ΞΑΦΝΙΚΟΣ ΕΡΩΤΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=Pmp2zuTUWN4
-
-#EXTINF:1,Ο ΕΧΘΡΟΣ ΜΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=D6_SBKFahLg
-
-#EXTINF:1,ΚΟΙΝΟΣ ΠΑΡΑΝΟΜΑΣΤΗΣ 
-plugin://plugin.video.youtube/?action=play_video&videoid=tLzolcUiI-E
-
-#EXTINF:1,ΛΟΥΦΑ ΚΑΙ ΑΠΑΛΛΑΓΗ
-plugin://plugin.video.youtube/?action=play_video&videoid=A9ffZfiT85E
-
-#EXTINF:1,ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=NAeVq6tPOW8
-
-#EXTINF:1,ΧΑΡΙΣΜΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=30Drl0UW7Oo
-
-#EXTINF:1,ΜΙΑ ΥΠΕΡΟΧΗ ΜΕΡΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=KSlvSmHYJs4
-
-#EXTINF:1,ΕΠΙΚΙΝΔΥΝΕΣ ΜΑΓΕΙΡΙΚΕΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=DmAiNEeHB7I
-
-#EXTINF:1,ΛΑΡΙΣΑ ΕΜΠΙΣΤΕΥΤΙΚΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=guhLZGDqqeA
-
-#EXTINF:1,ΟΝΕΙΡΑ ΓΛΥΚΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=18WK1E8S60w
-
-#EXTINF:1,Ο ΕΡΓΕΝΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=tBR4wXwzayo
-
-#EXTINF:1,ΜΕ ΧΩΡΙΣ ΓΥΝΑΙΚΕΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=MqzmsW2jOuo
-
-#EXTINF:1,ΕΦΑΠΑΞ
-plugin://plugin.video.youtube/?action=play_video&videoid=d1IDt7dYdXQ
-
-#EXTINF:1,Ο ΗΛΙΑΣ ΤΟΥ 16ου - NEW
-plugin://plugin.video.youtube/?action=play_video&videoid=c6o5gU-0IcU
-
-#EXTINF:1,ΜΗΝ ΠΕΡΝΑΣ ΑΝΑΒΕΙ ΚΟΚΚΙΝΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=LAsSW829grQ
-
-#EXTINF:1,ΝΗΣΟΣ 1
-plugin://plugin.video.youtube/?action=play_video&videoid=ZVmerwVsMNw
-
-#EXTINF:1,ΝΗΣΟΣ 2
-plugin://plugin.video.youtube/?action=play_video&videoid=4XWNp33nQqk
-
-#EXTINF:1,ΤΟ ΦΙΛΙ ΤΗΣ ΖΩΗΣ
+#EXTINF:1,Το φιλί της Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=1Vzw5jko5_E
 
-#EXTINF:1,ΚΑΝΕΝΑΣ - 2010
-plugin://plugin.video.youtube/?action=play_video&videoid=e8pJDy9VF2g
+#EXTINF:1,Μια φορά και ένα μωρό
+plugin://plugin.video.youtube/?action=play_video&videoid=cnDvzRYl4w8
 
-#EXTINF:1,ΠΕΜΠΤΗ ΚΑΙ 12
-plugin://plugin.video.youtube/?action=play_video&videoid=1jfHAYPobyk
+#EXTINF:1,Εφάπαξ
+plugin://plugin.video.youtube/?action=play_video&videoid=1Djp7_fktmo
 
-#EXTINF:1,I LOVE KARDITSA
-plugin://plugin.video.youtube/?action=play_video&videoid=dmksx7qI6tg
+#EXTINF:1,Amore Mio
+plugin://plugin.video.youtube/?action=play_video&videoid=DT1bvLHkgbw
 
-#EXTINF:1,ΛΟΥΦΑ ΚΑΙ ΑΠΑΛΛΑΓΗ
-plugin://plugin.video.youtube/?action=play_video&videoid=Bk1FZfkEcyg
+#EXTINF:1,Τέλιοι Ξένοι
+plugin://plugin.video.youtube/?action=play_video&videoid=0bCxSWNoj6M
 
-#EXTINF:1,Η ΚΛΗΡΟΝΟΜΟΣ (2009)
-plugin://plugin.video.youtube/?action=play_video&videoid=p_j1bzN9Sc0
+#EXTINF:1,Love In The End / Η Αγάπη Έρχεται Στο Τέλος
+plugin://plugin.video.youtube/?action=play_video&videoid=zL4AwJKbELA
 
-#EXTINF:1,Ο ΓΑΜΟΣ ΤΗΣ ΚΟΡΗΣ ΜΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=31fLHGp8biI
+#EXTINF:1,Κανένας
+plugin://plugin.video.youtube/?action=play_video&videoid=yAdEh6Q-2Ew
 
-#EXTINF:1,ΜΙΑ ΦΟΡΑ ΚΙ ΕΝΑ ΜΩΡΟ
-plugin://plugin.video.youtube/?action=play_video&videoid=yMkgk3goeok
+#EXTINF:1,Απο Έρωτα
+plugin://plugin.video.youtube/?action=play_video&videoid=px7rFamDXLE
 
-#EXTINF:1,ΚΛΕΦΤΕΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=SfpotxGpOB4
+#EXTINF:1,Πέμπτη και 12
+plugin://plugin.video.youtube/?action=play_video&videoid=FauWA33iB6Y
 
-#EXTINF:1,ΙΣΟΒΙΤΕΣ (2008)
-plugin://plugin.video.youtube/?action=play_video&videoid=DCb-ztLKRU0
+#EXTINF:1,Το Τανγκό Των Χριστουγέννων
+plugin://plugin.video.youtube/?action=play_video&videoid=IcGredzXu_E
 
-#EXTINF:1,ΑΊ΄ ΦΟΡ ΛΟΥΦΑ ΚΑΙ ΑΠΑΛΛΑΓΗ
-plugin://plugin.video.youtube/?action=play_video&videoid=ZCDhtB1eNZI
+#EXTINF:1,Πολίτικη Κουζίνα
+plugin://plugin.video.youtube/?action=play_video&videoid=m0g7Qwk09VE
 
-#EXTINF:1,ΟΙ ΓΕΝΝΑΙΟΙ ΤΗΣ ΣΑΜΟΘΡΑΚΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=EgBhhFU4Oi0
+#EXTINF:1,Ν ύ φ ε ς
+plugin://plugin.video.youtube/?action=play_video&videoid=d-uVZ1gFCkE
 
-#EXTINF:1,ΟΙ ΠΟΝΤΙΟΙ
-plugin://plugin.video.youtube/?action=play_video&videoid=aIKCfgDbnB4
+#EXTINF:1, Το έτερον ήμισυ
+plugin://plugin.video.youtube/?action=play_video&videoid=iHNHe6SVvQU
 
-#EXTINF:1,ΤΕΣΤΟΣΤΕΡΟΝΗ (2004)
-plugin://plugin.video.youtube/?action=play_video&videoid=5Iome2P9_AQ
+#EXTINF:1, Αγαπώ τη μαμά σου
+plugin://plugin.video.youtube/?action=play_video&videoid=RA0EtvJNG1g
 
-#EXTINF:1,ΟΙ ΑΙΣΘΗΜΑΤΙΕΣ (2014)
-plugin://plugin.video.youtube/?action=play_video&videoid=jFcQHiARYno
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΟΙ ΓΑΜΠΡΟΙ ΤΗΣ ΕΥΤΥΧΙΑΣ (2015) 
-plugin://plugin.video.youtube/?action=play_video&videoid=xPFfh1yO_EU
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΓΥΝΑΙΚΙΕΣ ΣΥΝΩΜΟΣΙΕΣ (2007)
-plugin://plugin.video.youtube/?action=play_video&videoid=OZOwBFVPBlM
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΠΑΡΑΔΕΙΣΟΣ (2011)
-plugin://plugin.video.youtube/?action=play_video&videoid=14d5kHtAiJw
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Η ΔΙΑΚΡΙΤΙΚΗ ΓΟΗΤΕΙΑ ΤΩΝ ΑΡΣΕΝΙΚΩΝ (1999)
-plugin://plugin.video.youtube/?action=play_video&videoid=JSa_0mM7aKM
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΑΚΑΛΥΠΤΟΣ (2013)
-plugin://plugin.video.youtube/?action=play_video&videoid=sIbNOoRJRYU
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,XENIA (2014)
-plugin://plugin.video.youtube/?action=play_video&videoid=hYZN5WdRQI
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΑΓΑΠΗ ΣΤΑ 16 (2004)
-plugin://plugin.video.youtube/?action=play_video&videoid=Jvw70o6DyLs
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΒΑΣΙΛΙΑΔΕΣ ΤΗΣ ΜΥΚΟΝΟΥ - 2010
-plugin://plugin.video.youtube/?action=play_video&videoid=dj5RZHxcTx4
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Η ΕΚΡΗΞΗ - 2014
-plugin://plugin.video.youtube/?action=play_video&videoid=eGe1-XklOqg
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΚΟΚΚΙΝΟΣ ΟΥΡΑΝΟΣ - 2011
-plugin://plugin.video.youtube/?action=play_video&videoid=sS3DSQoUeFw
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΜΑΝΤΕΨΕ ΤΙ ΚΑΝΩ ΤΑ ΒΡΑΔΙΑ - ΣΤ.ΨΑΛΤΗΣ 1984
-plugin://plugin.video.youtube/?action=play_video&videoid=otd1fAoc5FA
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΕΝΑΣ ΑΛΛΑ ΛΕΩΝ - ΣΤ.ΨΑΛΤΗΣ 1988
-plugin://plugin.video.youtube/?action=play_video&videoid=Ciw3fFl0N94
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ - ΣΤ.ΨΑΛΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=njk9Cvo1Zno
+ #EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΛΑΛΑΚΗΣ Ο ΕΙΣΑΓΩΜΕΝΟΣ (1984)
-plugin://plugin.video.youtube/?action=play_video&videoid=O2c1sW5E8LY
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΡΟΔΑ ΤΣΑΝΤΑ ΚΑΙ ΚΟΠΑΝΑ 1 (1982)
-plugin://plugin.video.youtube/?action=play_video&videoid=xy5JOt1vsjA
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΡΟΔΑ ΤΣΑΝΤΑ ΚΑΙ ΚΟΠΑΝΑ 2 (1983)
-plugin://plugin.video.youtube/?action=play_video&videoid=wVBs928fqmA
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΡΟΔΑ ΤΣΑΝΤΑ ΚΑΙ ΚΟΠΑΝΑ 3 (1984)
-plugin://plugin.video.youtube/?action=play_video&videoid=EM59T_nv3Lk
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΡΟΔΑ ΤΣΑΝΤΑ ΚΑΙ ΚΟΠΑΝΑ 4 (1987)
-plugin://plugin.video.youtube/?action=play_video&videoid=REpyr6Ir4hw
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΡΟΔΑ ΤΣΑΝΤΑ ΚΑΙ ΚΟΠΑΝΑ NEW (2010)
-plugin://plugin.video.youtube/?action=play_video&videoid=mPS7sHiFFZQ
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Ο ΤΖΟΓΑΔΟΡΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=x9XMV3k-2aM
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Ο ΔΥΝΑΣΤΕΙΑΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=bCdCI98QPOU
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Ο ΘΥΡΩΡΟΣ ΤΗΣ ΝΥΣΤΑΣ (1986) - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=VPgqsLCvjq0
+#EXTINF:1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,O ΣΕΞΟΒΟΜΒΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=d8CIXEf_-e4
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΠΑΤΕΡ ΓΚΟΜΕΝΙΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=k7z7haYVKnk
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΕΝΑΣ ΝΟΜΟΤΑΓΗΣ ΠΟΛΙΤΗΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=BI35jWIwU0
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,Ο ΤΡΕΛΟΓΙΑΤΡΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=T-NlX781f2s
+#EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΤΑ ΝΑΥΤΑΚΙΑ ΤΑ ΖΟΥΜΠΟΥΡΛΟΥΔΙΚΑ - ΚΩΣΤΑΝΤΙΝΟΥ
-plugin://plugin.video.youtube/?action=play_video&videoid=wX8TdoFGIk
+ #EXTINF:1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1,ΤΗΣ ΚΑΚΟΜΟΙΡΑΣ - ΧΑΤΖΗΧΡΗΣΤΟΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=35kLIoX9y38
-
-#EXTINF:1,ΑΝ ΗΤΑΝ ΤΟ ΒΙΟΛΙ ΠΟΥΛΙ... | Σωτήρης Μουστάκας (1984)
-plugin://plugin.video.youtube/?action=play_video&videoid=ZUCXRtE2tK0
-
-#EXTINF:1,ΤΡΕΛΟΣ ΕΙΜΑΙ, ΟΤΙ ΘΕΛΩ ΚΑΝΩ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=0Cz1McJtH3w
-
-#EXTINF:1,ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ (1986) - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=cTf0RKdjr40
-
-#EXTINF:1,ΨΗΛΟΣ, ΛΙΓΝΟΣ ΚΑΙ ΨΕΥΤΑΡΟΣ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=iDdlzxu094E
-
-#EXTINF:1,ΜΗΤΣΟΣ Ο ΡΕΖΙΛΗΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=XosrgWN9z9M
-
-#EXTINF:1,Ο ΠΑΡΘΕΝΟΚΥΝΗΓΟΣ - ΣΩΤΗΡΗΣ ΜΟΥΣΤΑΚΑΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=mk-zpjp3Hvk
-
-#EXTINF:1,ΒΑΣΙΚΑ... ΚΑΛΗΣΠΕΡΑ ΣΑΣ | Στάθης Ψάλτης (1982)
-plugin://plugin.video.youtube/?action=play_video&videoid=WWa_BaPD7G8
-
-#EXTINF:1,ΜΑΝΤΕΨΕ ΤΙ ΚΑΝΩ ΤΑ ΒΡΑΔΙΑ - ΣΤΑΘΗΣ ΨΑΛΤΗΣ (1984)
-plugin://plugin.video.youtube/?action=play_video&videoid=otd1fAoc5FA
-
-#EXTINF:1,THE... ΚΟΠΑΝΟΙ (1987)
-plugin://plugin.video.youtube/?action=play_video&videoid=ILJP94Q_3Fc
-
-#EXTINF:1,ΤΑ ΤΣΑΚΑΛΙΑ (1981)
-plugin://plugin.video.youtube/?action=play_video&videoid=ECO7BpdjPY8
-
-#EXTINF:1,ΚΑΜΙΚΑΖΙ ... ΑΓΑΠΗ ΜΟΥ (1983)
-plugin://plugin.video.youtube/?action=play_video&videoid=hCOXjHCR-fI
-
-#EXTINF:1,Η ΜΕΓΑΛΗ ΑΠΟΦΡΑΞΗ - ΤΟ ΣΚΑΤΟΜΟΥΤΡΟ 1988
-plugin://plugin.video.youtube/?action=play_video&videoid=rR3wWIlxwlU
-
-#EXTINF:1,ΚΛΑΣΙΚΗ ΠΕΡΙΠΤΩΣΗ ΒΛΑΒΗΣ 1987
-plugin://plugin.video.youtube/?action=play_video&videoid=yDIKvPBjb5Y
-
-#EXTINF:1,ΟΙ ΠΟΝΤΙΟΙ - ΤΣΑΚΩΝΑΣ, ΛΕΖΕΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=OQT4OzvlBlw
-
-#EXTINF:1,ΦΤΩΧΟΓΕΙΤΟΝΙΑ ΑΓΑΠΗ ΜΟΥ (1969 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=64wWIoaTyi4
-
-#EXTINF:1,ΕΧΩ ΔΙΚΑΙΩΜΑ ΝΑ Σ'ΑΓΑΠΩ (1966 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=9iOWgdTu5Gg
-
-#EXTINF:1,Ο ΛΟΥΣΤΡΑΚΟΣ (1962)
-plugin://plugin.video.youtube/?action=play_video&videoid=zHsTbyL7yKU
-
-#EXTINF:1,Η ΤΡΟΥΜΠΑ (1963)
-plugin://plugin.video.youtube/?action=play_video&videoid=XDW68h50clI
-
-#EXTINF:1,Η ΚΑΡΔΙΑ ΕΝΟΣ ΑΛΗΤΗ (1968 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=OexIp7Kp2s4
-
-#EXTINF:1,Η ΟΔΥΣΣΕΙΑ ΕΝΟΣ ΞΕΡΙΖΩΜΕΝΟΥ (1969 - Ν.ΞΑΝΘΟΠΟΥΛΟΣ)
-plugin://plugin.video.youtube/?action=play_video&videoid=OqoBbceESWw
-
-
+#EXTINF:1,Τρίτη και 13 !!
+plugin://plugin.video.youtube/?action=play_video&videoid=zYPIKCyf3b8
