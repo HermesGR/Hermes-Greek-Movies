@@ -1,11 +1,5 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1,Ο Ηλίας του 16 - (New Edition)
-plugin://plugin.video.youtube/?action=play_video&videoid=vL25ZzG2P3Y
-
-#EXTINF:1,Λούφα Και Απαλλαγή Άι Φορ
-plugin://plugin.video.youtube/?action=play_video&videoid=d_Qp0ralr1Y
-
 #EXTINF:1,Το φιλί Της Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=1Vzw5jko5_E
 
