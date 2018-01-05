@@ -96,6 +96,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=K2qeGozWy80
 #EXTINF:1,Έλα Ν'αγαπηθούμε Ντάρλινγ - Στάθης Ψάλτης
 plugin://plugin.video.youtube/?action=play_video&videoid=NoRk_aTloUw
 
+#EXTINF:1,Πες τα χρυσόστομε - Σταθής Ψάλτης
+plugin://plugin.video.youtube/?action=play_video&videoid=G5DbotwoAiI
+
+#EXTINF:1,Τροχονόμος Βαρβάρα - Στάθης Ψάλτης
+plugin://plugin.video.youtube/?action=play_video&videoid=Nl4hNOAcoss
+
 #EXTINF:1,Τρελός Είμαι, Ότι Θέλω Κάνω - Στάθης Ψάλτης
 plugin://plugin.video.youtube/?action=play_video&videoid=0Cz1McJtH3w
 
