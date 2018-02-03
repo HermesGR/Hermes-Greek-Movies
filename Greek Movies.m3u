@@ -1,5 +1,44 @@
 # Hermes-Greek-Movies
 
+#EXTINF:1, Η ΔΕ ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΤΡΑ - Μ.ΚΟΝΤΟΥ, Γ.ΚΩΝΣΤΑΝΤΙΝΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=vCt1BMKPcm8
+
+#EXTINF:1, Ο ΚΑΤΕΡΓΑΡΗΣ - ΧΡ.ΕΞΑΡΧΑΚΟΣ, Ν.ΒΑΛΣΑΜΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=JSNrrdkHnwQ
+
+#EXTINF:1, Η ΚΟΡΗ ΜΟΥ Η ΣΟΣΙΑΛΙΣΤΡΙΑ - ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ, Δ.ΠΑΠΑΜΙΧΑΗΛ
+plugin://plugin.video.youtube/?action=play_video&videoid=NOf2XOOyOIA
+
+#EXTINF:1, ΤΟ ΚΟΡΙΤΣΙ ΤΟΥ ΛΟΥΝΑ ΠΑΡΚ - ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=dmLn0msWh7o
+
+#EXTINF:1, ΠΑΤΕΡΑ ΚΑΤΣΕ ΦΡΟΝΙΜΑ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=ajAvbDz2McQ
+
+#EXTINF:1, Ο ΡΩΜΙΟΣ ΕΧΕΙ ΦΙΛΟΤΙΜΟ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=SDYI0qkQthA
+
+#EXTINF:1, ΚΑΠΕΤΑΝ ΦΑΝΤΗΣ ΜΠΑΣΤΟΥΝΙ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=FKwCB1AEnQ0
+
+#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΕΣΠΑΓΕ ΠΛΑΚΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=8cpDQuVpLzY
+
+#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΓΥΡΙΣΕ ΑΠΟ ΤΗΝ ΖΕΣΤΗ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=aScJFJGAL3s
+
+#EXTINF:1, Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=68dDyG5rD-k
+
+#EXTINF:1, Ο ΓΕΡΟΝΤΟΚΟΡΟΣ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=Qg6PIN3gChA
+
+#EXTINF:1, ΘΑ ΣΕ ΚΑΝΩ ΒΑΣΙΛΙΣΣΑ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=_wE0xTzX0PA
+
+#EXTINF:1, ΕΝΑΣ ΖΟΡΙΚΟΣ ΔΕΚΑΝΕΑΣ - ΧΑΤΖΗΧΡΗΣΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=giWmp6JV-MI
+
 #EXTINF:1,Το φιλί Της Ζωής
 plugin://plugin.video.youtube/?action=play_video&videoid=1Vzw5jko5_E
 
