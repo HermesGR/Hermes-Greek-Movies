@@ -1,42 +1,60 @@
 # Hermes-Greek-Movies
 
-#EXTINF:1, Η ΔΕ ΓΥΝΗ ΝΑ ΦΟΒΗΤΑΙ ΤΟΝ ΑΝΤΡΑ - Μ.ΚΟΝΤΟΥ, Γ.ΚΩΝΣΤΑΝΤΙΝΟΥ
+#EXTINF:1, Ειμαρμενη
+plugin://plugin.video.youtube/?action=play_video&videoid=p24B790GNMI
+
+#EXTINF:1, Suntan
+plugin://plugin.video.youtube/?action=play_video&videoid=rO_I3qaYZkU
+
+#EXTINF:1, Λουκουμάδες με Μέλι
+plugin://plugin.video.youtube/?action=play_video&videoid=kCkfSPS1xs8
+
+#EXTINF:1, The Bachelor
+plugin://plugin.video.youtube/?action=play_video&videoid=lqWtE8V1Hb4
+
+#EXTINF:1, Αγαπώ τη μαμά σου
+plugin://plugin.video.youtube/?action=play_video&videoid=RA0EtvJNG1g
+
+#EXTINF:1, Ρόζ
+plugin://plugin.video.youtube/?action=play_video&videoid=I2_L-EjaUkQ
+
+#EXTINF:1, Η Δε Γυνή Να Φοβήται Τον Άντρα - Μ.Κοντού, Γ.Κωνσταντίνου
 plugin://plugin.video.youtube/?action=play_video&videoid=vCt1BMKPcm8
 
-#EXTINF:1, Ο ΚΑΤΕΡΓΑΡΗΣ - ΧΡ.ΕΞΑΡΧΑΚΟΣ, Ν.ΒΑΛΣΑΜΗ
+#EXTINF:1, Ο Κατεργάρης - Χρ.Εξαρχάκος, Ν.Βαλσάμη
 plugin://plugin.video.youtube/?action=play_video&videoid=JSNrrdkHnwQ
 
-#EXTINF:1, Η ΚΟΡΗ ΜΟΥ Η ΣΟΣΙΑΛΙΣΤΡΙΑ - ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ, Δ.ΠΑΠΑΜΙΧΑΗΛ
+#EXTINF:1, Η Κόρη μου η Σοσσιαλίστρια - Αλ.Βουγιουκλάκη, Δ.Παπαμιχαήλ
 plugin://plugin.video.youtube/?action=play_video&videoid=NOf2XOOyOIA
 
-#EXTINF:1, ΤΟ ΚΟΡΙΤΣΙ ΤΟΥ ΛΟΥΝΑ ΠΑΡΚ - ΑΛ.ΒΟΥΓΙΟΥΚΛΑΚΗ
+#EXTINF:1, Το Κορίτσι του Λούνα Παρκ - Αλ.Βουγιουκλάκη
 plugin://plugin.video.youtube/?action=play_video&videoid=dmLn0msWh7o
 
-#EXTINF:1, ΠΑΤΕΡΑ ΚΑΤΣΕ ΦΡΟΝΙΜΑ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Πατέρα Κάτσε Φρόνιμα - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=ajAvbDz2McQ
 
-#EXTINF:1, Ο ΡΩΜΙΟΣ ΕΧΕΙ ΦΙΛΟΤΙΜΟ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Ο Ρωμιός Έχει Φιλότιμο - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=SDYI0qkQthA
 
-#EXTINF:1, ΚΑΠΕΤΑΝ ΦΑΝΤΗΣ ΜΠΑΣΤΟΥΝΙ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Καπετάν Φάντης Μπαστούνι - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=FKwCB1AEnQ0
 
-#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΕΣΠΑΓΕ ΠΛΑΚΑ
+#EXTINF:1, Ο Ανθρωπος που έσπαγε πλάκα - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=8cpDQuVpLzY
 
-#EXTINF:1, Ο ΑΝΘΡΩΠΟΣ ΠΟΥ ΓΥΡΙΣΕ ΑΠΟ ΤΗΝ ΖΕΣΤΗ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Ο Άνθρωπος που γύρισε από την ζέστη -Λ.Κωνσταντάρας  
 plugin://plugin.video.youtube/?action=play_video&videoid=aScJFJGAL3s
 
-#EXTINF:1, Ο ΣΤΡΙΓΓΛΟΣ ΠΟΥ ΕΓΙΝΕ ΑΡΝΑΚΙ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Ο Στρίγγλος που έγινε Αρνάκι - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=68dDyG5rD-k
 
-#EXTINF:1, Ο ΓΕΡΟΝΤΟΚΟΡΟΣ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Ο Γεροντοκόρος - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=Qg6PIN3gChA
 
-#EXTINF:1, ΘΑ ΣΕ ΚΑΝΩ ΒΑΣΙΛΙΣΣΑ - Λ.ΚΩΝΣΤΑΝΤΑΡΑΣ
+#EXTINF:1, Θα σε κάνω Βασίλισσα - Λ.Κωνσταντάρας
 plugin://plugin.video.youtube/?action=play_video&videoid=_wE0xTzX0PA
 
-#EXTINF:1, ΕΝΑΣ ΖΟΡΙΚΟΣ ΔΕΚΑΝΕΑΣ - ΧΑΤΖΗΧΡΗΣΤΟΣ
+#EXTINF:1, Ενας Ζόρικος Δεκανέας - Χατζηχρήστος
 plugin://plugin.video.youtube/?action=play_video&videoid=giWmp6JV-MI
 
 #EXTINF:1,Το φιλί Της Ζωής
